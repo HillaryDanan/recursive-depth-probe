@@ -334,5 +334,3 @@ Part of the [Abstraction-Intelligence](https://github.com/HillaryDanan/abstracti
 MIT
 
 ---
-
-*"The map is not the territory. The test is not the capacity."*

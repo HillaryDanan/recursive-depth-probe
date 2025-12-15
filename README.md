@@ -12,7 +12,7 @@ This repository documents a series of experiments testing whether LLMs show "thr
 
 ### The Abstraction Primitive Hypothesis (APH)
 
-The APH framework (Danan, 2024) proposes that intelligence emerges from recursive interaction between symbol formation and compositional structure. It distinguishes:
+The APH framework (Danan, 2025) proposes that intelligence emerges from recursive interaction between symbol formation and compositional structure. It distinguishes:
 
 | Composition Type | Structure | Mechanism |
 |------------------|-----------|-----------|

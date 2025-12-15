@@ -1,0 +1,5662 @@
+[
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog carried the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t00",
+    "seed": 750100
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox grabbed the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t01",
+    "seed": 750101
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf carried the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t02",
+    "seed": 750102
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf found the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t03",
+    "seed": 750103
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf moved the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t04",
+    "seed": 750104
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox touched the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t05",
+    "seed": 750105
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird moved the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t06",
+    "seed": 750106
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf found the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t07",
+    "seed": 750107
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat carried the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t08",
+    "seed": 750108
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox grabbed the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t09",
+    "seed": 750109
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit grabbed the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t10",
+    "seed": 750110
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat grabbed the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t11",
+    "seed": 750111
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog found the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t12",
+    "seed": 750112
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox touched the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t13",
+    "seed": 750113
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit moved the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t14",
+    "seed": 750114
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog moved the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t15",
+    "seed": 750115
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse touched the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t16",
+    "seed": 750116
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse moved the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t17",
+    "seed": 750117
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit found the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t18",
+    "seed": 750118
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird carried the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 1,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d1_t19",
+    "seed": 750119
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the farmer noticed moved the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "farmer",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t00",
+    "seed": 750200
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the artist followed carried the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "artist",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t01",
+    "seed": 750201
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the clerk saw grabbed the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "clerk",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t02",
+    "seed": 750202
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the sailor watched found the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "sailor",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t03",
+    "seed": 750203
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the man saw touched the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "man",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t04",
+    "seed": 750204
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog that the pilot watched found the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "pilot",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t05",
+    "seed": 750205
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the boy met carried the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "boy",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t06",
+    "seed": 750206
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the coach heard grabbed the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "coach",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t07",
+    "seed": 750207
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the actor heard grabbed the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "actor",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t08",
+    "seed": 750208
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the lawyer met touched the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "lawyer",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t09",
+    "seed": 750209
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the lawyer helped moved the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "lawyer",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t10",
+    "seed": 750210
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the teacher knew touched the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "teacher",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t11",
+    "seed": 750211
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the man heard touched the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "man",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t12",
+    "seed": 750212
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the judge followed touched the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "judge",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t13",
+    "seed": 750213
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the farmer saw moved the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "farmer",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t14",
+    "seed": 750214
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the coach called grabbed the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "coach",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t15",
+    "seed": 750215
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the chef helped touched the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "chef",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t16",
+    "seed": 750216
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the mayor met carried the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "mayor",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t17",
+    "seed": 750217
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the sailor met carried the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "sailor",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t18",
+    "seed": 750218
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the artist saw found the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 2,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "artist",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d2_t19",
+    "seed": 750219
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the writer that the actor followed noticed touched the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "writer",
+      "actor",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t00",
+    "seed": 750300
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the nurse that the coach knew recognized found the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "nurse",
+      "coach",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t01",
+    "seed": 750301
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the chef that the doctor knew saw carried the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "chef",
+      "doctor",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t02",
+    "seed": 750302
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the farmer that the clerk followed heard touched the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "farmer",
+      "clerk",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t03",
+    "seed": 750303
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the chef that the boy knew recognized carried the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "chef",
+      "boy",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t04",
+    "seed": 750304
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the mayor that the teacher called noticed carried the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "mayor",
+      "teacher",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t05",
+    "seed": 750305
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the girl that the writer saw knew grabbed the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "girl",
+      "writer",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t06",
+    "seed": 750306
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the chef that the singer knew called touched the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "chef",
+      "singer",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t07",
+    "seed": 750307
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the teacher that the woman followed knew touched the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "teacher",
+      "woman",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t08",
+    "seed": 750308
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the boy that the clerk met watched found the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "boy",
+      "clerk",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t09",
+    "seed": 750309
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the boy that the farmer noticed knew found the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "boy",
+      "farmer",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t10",
+    "seed": 750310
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the teacher that the artist recognized saw moved the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "teacher",
+      "artist",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t11",
+    "seed": 750311
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the woman that the man noticed saw moved the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "woman",
+      "man",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t12",
+    "seed": 750312
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the pilot that the writer helped met found the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "pilot",
+      "writer",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t13",
+    "seed": 750313
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog that the chef that the mayor heard called found the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "chef",
+      "mayor",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t14",
+    "seed": 750314
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the chef that the artist watched met found the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "chef",
+      "artist",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t15",
+    "seed": 750315
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the man that the doctor called knew carried the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "man",
+      "doctor",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t16",
+    "seed": 750316
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the actor that the boy saw helped found the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "actor",
+      "boy",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t17",
+    "seed": 750317
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the lawyer that the man recognized noticed touched the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "lawyer",
+      "man",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t18",
+    "seed": 750318
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the judge that the boy helped called touched the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 3,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "judge",
+      "boy",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d3_t19",
+    "seed": 750319
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog that the chef that the pilot that the woman called noticed helped found the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "chef",
+      "pilot",
+      "woman",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t00",
+    "seed": 750400
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the lawyer that the coach that the pilot followed called saw grabbed the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "lawyer",
+      "coach",
+      "pilot",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t01",
+    "seed": 750401
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the artist that the clerk that the writer knew followed recognized found the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "artist",
+      "clerk",
+      "writer",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t02",
+    "seed": 750402
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the pilot that the writer that the farmer met called watched found the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "pilot",
+      "writer",
+      "farmer",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t03",
+    "seed": 750403
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the farmer that the girl that the mayor called heard saw grabbed the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "farmer",
+      "girl",
+      "mayor",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t04",
+    "seed": 750404
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the lawyer that the clerk that the pilot knew saw recognized grabbed the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "lawyer",
+      "clerk",
+      "pilot",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t05",
+    "seed": 750405
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the mayor that the writer that the coach followed helped saw moved the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "mayor",
+      "writer",
+      "coach",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t06",
+    "seed": 750406
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the man that the coach that the judge heard followed helped touched the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "man",
+      "coach",
+      "judge",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t07",
+    "seed": 750407
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the singer that the sailor that the man noticed watched followed touched the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "singer",
+      "sailor",
+      "man",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t08",
+    "seed": 750408
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the judge that the artist that the boy heard recognized met touched the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "judge",
+      "artist",
+      "boy",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t09",
+    "seed": 750409
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the judge that the writer that the nurse saw knew followed found the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "judge",
+      "writer",
+      "nurse",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t10",
+    "seed": 750410
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the singer that the chef that the nurse heard noticed called grabbed the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "singer",
+      "chef",
+      "nurse",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t11",
+    "seed": 750411
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the clerk that the actor that the singer watched met recognized grabbed the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "clerk",
+      "actor",
+      "singer",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t12",
+    "seed": 750412
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog that the artist that the teacher that the lawyer called recognized noticed carried the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "artist",
+      "teacher",
+      "lawyer",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t13",
+    "seed": 750413
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the woman that the teacher that the clerk watched recognized noticed touched the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "woman",
+      "teacher",
+      "clerk",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t14",
+    "seed": 750414
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the pilot that the singer that the boy knew heard recognized carried the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "pilot",
+      "singer",
+      "boy",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t15",
+    "seed": 750415
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the girl that the judge that the pilot watched recognized met found the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "girl",
+      "judge",
+      "pilot",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t16",
+    "seed": 750416
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the farmer that the pilot that the sailor met called followed carried the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "farmer",
+      "pilot",
+      "sailor",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t17",
+    "seed": 750417
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the sailor that the boy that the actor helped saw followed touched the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "sailor",
+      "boy",
+      "actor",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t18",
+    "seed": 750418
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the clerk that the coach that the woman met called followed grabbed the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 4,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "clerk",
+      "coach",
+      "woman",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d4_t19",
+    "seed": 750419
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the artist that the girl that the boy that the singer recognized knew met watched carried the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "artist",
+      "girl",
+      "boy",
+      "singer",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t00",
+    "seed": 750500
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog that the actor that the clerk that the coach that the chef recognized called met noticed found the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "actor",
+      "clerk",
+      "coach",
+      "chef",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t01",
+    "seed": 750501
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the mayor that the coach that the man that the writer watched noticed recognized knew carried the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "mayor",
+      "coach",
+      "man",
+      "writer",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t02",
+    "seed": 750502
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the man that the farmer that the nurse that the woman heard met called knew grabbed the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "man",
+      "farmer",
+      "nurse",
+      "woman",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t03",
+    "seed": 750503
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the boy that the artist that the man that the singer met knew helped called grabbed the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "boy",
+      "artist",
+      "man",
+      "singer",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t04",
+    "seed": 750504
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the sailor that the chef that the woman that the singer noticed called recognized heard carried the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "sailor",
+      "chef",
+      "woman",
+      "singer",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t05",
+    "seed": 750505
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the clerk that the woman that the artist that the farmer noticed watched met called grabbed the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "clerk",
+      "woman",
+      "artist",
+      "farmer",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t06",
+    "seed": 750506
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the sailor that the woman that the girl that the artist noticed watched helped recognized carried the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "sailor",
+      "woman",
+      "girl",
+      "artist",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t07",
+    "seed": 750507
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the chef that the girl that the writer that the nurse heard watched noticed helped grabbed the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "chef",
+      "girl",
+      "writer",
+      "nurse",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t08",
+    "seed": 750508
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the man that the pilot that the teacher that the boy followed met knew called touched the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "man",
+      "pilot",
+      "teacher",
+      "boy",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t09",
+    "seed": 750509
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the pilot that the man that the nurse that the lawyer called saw helped recognized carried the stick.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "pilot",
+      "man",
+      "nurse",
+      "lawyer",
+      "stick"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t10",
+    "seed": 750510
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the farmer that the lawyer that the nurse that the clerk followed recognized met noticed touched the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "farmer",
+      "lawyer",
+      "nurse",
+      "clerk",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t11",
+    "seed": 750511
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the coach that the singer that the doctor that the woman met called knew recognized carried the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "coach",
+      "singer",
+      "doctor",
+      "woman",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t12",
+    "seed": 750512
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the actor that the boy that the lawyer that the chef recognized helped knew called touched the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "actor",
+      "boy",
+      "lawyer",
+      "chef",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t13",
+    "seed": 750513
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the artist that the doctor that the sailor that the coach met noticed saw knew carried the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "artist",
+      "doctor",
+      "sailor",
+      "coach",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t14",
+    "seed": 750514
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the teacher that the actor that the clerk that the man saw recognized followed met moved the bag.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "teacher",
+      "actor",
+      "clerk",
+      "man",
+      "bag"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t15",
+    "seed": 750515
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the writer that the girl that the lawyer that the man called helped met heard grabbed the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "writer",
+      "girl",
+      "lawyer",
+      "man",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t16",
+    "seed": 750516
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the man that the lawyer that the singer that the farmer heard followed met knew carried the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "man",
+      "lawyer",
+      "singer",
+      "farmer",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t17",
+    "seed": 750517
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the judge that the pilot that the chef that the clerk noticed recognized followed knew moved the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "judge",
+      "pilot",
+      "chef",
+      "clerk",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t18",
+    "seed": 750518
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the sailor that the singer that the writer that the woman called heard noticed knew moved the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 5,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "sailor",
+      "singer",
+      "writer",
+      "woman",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d5_t19",
+    "seed": 750519
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the girl that the man that the judge that the artist that the mayor saw recognized helped called noticed grabbed the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "girl",
+      "man",
+      "judge",
+      "artist",
+      "mayor",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t00",
+    "seed": 750600
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the farmer that the girl that the pilot that the coach that the writer heard called watched recognized knew grabbed the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "farmer",
+      "girl",
+      "pilot",
+      "coach",
+      "writer",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t01",
+    "seed": 750601
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the man that the boy that the actor that the pilot that the sailor called saw recognized followed watched moved the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "man",
+      "boy",
+      "actor",
+      "pilot",
+      "sailor",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t02",
+    "seed": 750602
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the sailor that the chef that the teacher that the pilot that the boy knew followed met saw helped moved the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "sailor",
+      "chef",
+      "teacher",
+      "pilot",
+      "boy",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t03",
+    "seed": 750603
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bear that the farmer that the sailor that the nurse that the clerk that the mayor called watched followed saw knew carried the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bear",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "farmer",
+      "sailor",
+      "nurse",
+      "clerk",
+      "mayor",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t04",
+    "seed": 750604
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the chef that the pilot that the mayor that the clerk that the coach watched noticed called saw met moved the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "chef",
+      "pilot",
+      "mayor",
+      "clerk",
+      "coach",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t05",
+    "seed": 750605
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the judge that the mayor that the chef that the coach that the doctor helped followed knew heard called touched the leaf.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "judge",
+      "mayor",
+      "chef",
+      "coach",
+      "doctor",
+      "leaf"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t06",
+    "seed": 750606
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the man that the singer that the teacher that the lawyer that the actor knew saw met heard watched touched the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "man",
+      "singer",
+      "teacher",
+      "lawyer",
+      "actor",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t07",
+    "seed": 750607
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The rabbit that the sailor that the boy that the nurse that the lawyer that the singer watched followed noticed met saw carried the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "rabbit",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "sailor",
+      "boy",
+      "nurse",
+      "lawyer",
+      "singer",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t08",
+    "seed": 750608
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The dog that the mayor that the artist that the woman that the nurse that the writer met recognized noticed watched knew touched the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "dog",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "mayor",
+      "artist",
+      "woman",
+      "nurse",
+      "writer",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t09",
+    "seed": 750609
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The wolf that the man that the boy that the pilot that the doctor that the actor recognized called saw watched knew grabbed the cup.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "wolf",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "man",
+      "boy",
+      "pilot",
+      "doctor",
+      "actor",
+      "cup"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t10",
+    "seed": 750610
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The deer that the mayor that the singer that the sailor that the judge that the nurse saw helped recognized heard met found the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "deer",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "mayor",
+      "singer",
+      "sailor",
+      "judge",
+      "nurse",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t11",
+    "seed": 750611
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the girl that the singer that the coach that the woman that the lawyer recognized knew saw met noticed moved the toy.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "girl",
+      "singer",
+      "coach",
+      "woman",
+      "lawyer",
+      "toy"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t12",
+    "seed": 750612
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the man that the teacher that the clerk that the chef that the girl noticed met heard helped knew moved the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "man",
+      "teacher",
+      "clerk",
+      "chef",
+      "girl",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t13",
+    "seed": 750613
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The mouse that the boy that the farmer that the woman that the actor that the coach heard saw called knew helped carried the rope.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "mouse",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "boy",
+      "farmer",
+      "woman",
+      "actor",
+      "coach",
+      "rope"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t14",
+    "seed": 750614
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The cat that the singer that the writer that the coach that the pilot that the artist called met saw noticed knew grabbed the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "cat",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "singer",
+      "writer",
+      "coach",
+      "pilot",
+      "artist",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t15",
+    "seed": 750615
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The horse that the judge that the woman that the coach that the lawyer that the clerk met watched heard knew saw touched the rock.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "horse",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "judge",
+      "woman",
+      "coach",
+      "lawyer",
+      "clerk",
+      "rock"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t16",
+    "seed": 750616
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The bird that the actor that the girl that the man that the sailor that the farmer heard watched helped called noticed grabbed the bone.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "bird",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "actor",
+      "girl",
+      "man",
+      "sailor",
+      "farmer",
+      "bone"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t17",
+    "seed": 750617
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the actor that the farmer that the sailor that the singer that the coach met noticed heard recognized called found the box.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "actor",
+      "farmer",
+      "sailor",
+      "singer",
+      "coach",
+      "box"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t18",
+    "seed": 750618
+  },
+  {
+    "domain": "A_relative_clause",
+    "sentence": "The fox that the singer that the teacher that the sailor that the chef that the writer knew followed called helped saw found the ball.",
+    "question": "In the following sentence, who performed the main action?",
+    "correct_answer": "fox",
+    "depth": 6,
+    "n_nouns": 7,
+    "distractor_nouns": [
+      "singer",
+      "teacher",
+      "sailor",
+      "chef",
+      "writer",
+      "ball"
+    ],
+    "answer_position": "first",
+    "trial_id": "A_d6_t19",
+    "seed": 750619
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The briefcase is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "briefcase",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t00",
+    "seed": 760100
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The guitar is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "guitar",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t01",
+    "seed": 760101
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The garden is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "garden",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t02",
+    "seed": 760102
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The jacket is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "jacket",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t03",
+    "seed": 760103
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The boat is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "boat",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t04",
+    "seed": 760104
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The telescope is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "telescope",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t05",
+    "seed": 760105
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The jacket is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "jacket",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t06",
+    "seed": 760106
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The camera is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "camera",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t07",
+    "seed": 760107
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The car is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "car",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t08",
+    "seed": 760108
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The camera is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "camera",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t09",
+    "seed": 760109
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The piano is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "piano",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t10",
+    "seed": 760110
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The camera is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "camera",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t11",
+    "seed": 760111
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chair is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "chair",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t12",
+    "seed": 760112
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The laptop is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "laptop",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t13",
+    "seed": 760113
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chair is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "chair",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t14",
+    "seed": 760114
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The piano is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "piano",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t15",
+    "seed": 760115
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The briefcase is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "briefcase",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t16",
+    "seed": 760116
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The bicycle is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "bicycle",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t17",
+    "seed": 760117
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The jacket is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "jacket",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t18",
+    "seed": 760118
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The watch is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "watch",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d1_t19",
+    "seed": 760119
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chef's guitar is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "guitar",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "chef"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t00",
+    "seed": 760200
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The manager's jacket is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "jacket",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t01",
+    "seed": 760201
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chef's painting is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "painting",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "chef"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t02",
+    "seed": 760202
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The director's piano is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "piano",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "director"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t03",
+    "seed": 760203
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's office is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "office",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "teacher"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t04",
+    "seed": 760204
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The farmer's phone is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "phone",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t05",
+    "seed": 760205
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The doctor's bicycle is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "bicycle",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "doctor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t06",
+    "seed": 760206
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The lawyer's guitar is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "guitar",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "lawyer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t07",
+    "seed": 760207
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The student's briefcase is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "briefcase",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t08",
+    "seed": 760208
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's office is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "office",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "friend"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t09",
+    "seed": 760209
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The pilot's bicycle is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "bicycle",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "pilot"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t10",
+    "seed": 760210
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The farmer's watch is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "watch",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t11",
+    "seed": 760211
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The director's jacket is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "jacket",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "director"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t12",
+    "seed": 760212
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The cousin's camera is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "camera",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "cousin"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t13",
+    "seed": 760213
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The nurse's car is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "car",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "nurse"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t14",
+    "seed": 760214
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The student's piano is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "piano",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t15",
+    "seed": 760215
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The aunt's bicycle is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "bicycle",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "aunt"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t16",
+    "seed": 760216
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's piano is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "piano",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "friend"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t17",
+    "seed": 760217
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's chair is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "chair",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "teacher"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t18",
+    "seed": 760218
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The lawyer's umbrella is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "umbrella",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "lawyer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d2_t19",
+    "seed": 760219
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The engineer's director's umbrella is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "umbrella",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "engineer",
+      "director"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t00",
+    "seed": 760300
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The nurse's captain's umbrella is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "umbrella",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "nurse",
+      "captain"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t01",
+    "seed": 760301
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The professor's director's book is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "book",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "professor",
+      "director"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t02",
+    "seed": 760302
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The neighbor's student's jacket is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "jacket",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "neighbor",
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t03",
+    "seed": 760303
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The farmer's nurse's painting is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "painting",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "farmer",
+      "nurse"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t04",
+    "seed": 760304
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's farmer's desk is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "desk",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "friend",
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t05",
+    "seed": 760305
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The uncle's engineer's car is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "car",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "uncle",
+      "engineer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t06",
+    "seed": 760306
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's teacher's laptop is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "laptop",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "friend",
+      "teacher"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t07",
+    "seed": 760307
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The uncle's manager's office is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "office",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "uncle",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t08",
+    "seed": 760308
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's manager's watch is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "watch",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "friend",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t09",
+    "seed": 760309
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's writer's book is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "book",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "teacher",
+      "writer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t10",
+    "seed": 760310
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The neighbor's doctor's umbrella is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "umbrella",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "neighbor",
+      "doctor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t11",
+    "seed": 760311
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The doctor's pilot's briefcase is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "briefcase",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "doctor",
+      "pilot"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t12",
+    "seed": 760312
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The uncle's doctor's watch is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "watch",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "uncle",
+      "doctor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t13",
+    "seed": 760313
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The professor's student's guitar is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "guitar",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "professor",
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t14",
+    "seed": 760314
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The professor's doctor's umbrella is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "umbrella",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "professor",
+      "doctor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t15",
+    "seed": 760315
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The doctor's uncle's jacket is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "jacket",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "doctor",
+      "uncle"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t16",
+    "seed": 760316
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The neighbor's chef's chair is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "chair",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "neighbor",
+      "chef"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t17",
+    "seed": 760317
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The lawyer's teacher's briefcase is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "briefcase",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "lawyer",
+      "teacher"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t18",
+    "seed": 760318
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The pilot's cousin's piano is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "piano",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "pilot",
+      "cousin"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d3_t19",
+    "seed": 760319
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The writer's student's chef's laptop is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "laptop",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "writer",
+      "student",
+      "chef"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t00",
+    "seed": 760400
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The nurse's farmer's manager's boat is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "boat",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "nurse",
+      "farmer",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t01",
+    "seed": 760401
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The cousin's director's manager's guitar is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "guitar",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "cousin",
+      "director",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t02",
+    "seed": 760402
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The aunt's friend's pilot's house is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "house",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "aunt",
+      "friend",
+      "pilot"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t03",
+    "seed": 760403
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The doctor's friend's nurse's laptop is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "laptop",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "doctor",
+      "friend",
+      "nurse"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t04",
+    "seed": 760404
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The captain's friend's neighbor's chair is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "chair",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "captain",
+      "friend",
+      "neighbor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t05",
+    "seed": 760405
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The student's neighbor's pilot's camera is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "camera",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "student",
+      "neighbor",
+      "pilot"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t06",
+    "seed": 760406
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The pilot's director's professor's painting is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "painting",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "pilot",
+      "director",
+      "professor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t07",
+    "seed": 760407
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The writer's professor's engineer's piano is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "piano",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "writer",
+      "professor",
+      "engineer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t08",
+    "seed": 760408
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The artist's pilot's nurse's umbrella is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "umbrella",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "artist",
+      "pilot",
+      "nurse"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t09",
+    "seed": 760409
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The captain's friend's engineer's phone is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "phone",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "captain",
+      "friend",
+      "engineer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t10",
+    "seed": 760410
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chef's artist's farmer's chair is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "chair",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "chef",
+      "artist",
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t11",
+    "seed": 760411
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The student's nurse's friend's briefcase is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "briefcase",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "student",
+      "nurse",
+      "friend"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t12",
+    "seed": 760412
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's student's farmer's piano is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "piano",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "teacher",
+      "student",
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t13",
+    "seed": 760413
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The artist's nurse's captain's jacket is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "jacket",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "artist",
+      "nurse",
+      "captain"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t14",
+    "seed": 760414
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The doctor's cousin's neighbor's chair is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "chair",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "doctor",
+      "cousin",
+      "neighbor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t15",
+    "seed": 760415
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The professor's teacher's cousin's guitar is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "guitar",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "professor",
+      "teacher",
+      "cousin"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t16",
+    "seed": 760416
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The manager's friend's doctor's camera is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "camera",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "manager",
+      "friend",
+      "doctor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t17",
+    "seed": 760417
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's aunt's lawyer's car is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "car",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "teacher",
+      "aunt",
+      "lawyer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t18",
+    "seed": 760418
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The lawyer's director's friend's house is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "house",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "lawyer",
+      "director",
+      "friend"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d4_t19",
+    "seed": 760419
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The engineer's director's writer's farmer's chair is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "chair",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "engineer",
+      "director",
+      "writer",
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t00",
+    "seed": 760500
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's lawyer's captain's neighbor's piano is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "piano",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "friend",
+      "lawyer",
+      "captain",
+      "neighbor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t01",
+    "seed": 760501
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The uncle's director's manager's doctor's jacket is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "jacket",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "uncle",
+      "director",
+      "manager",
+      "doctor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t02",
+    "seed": 760502
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The student's cousin's artist's manager's boat is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "boat",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "student",
+      "cousin",
+      "artist",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t03",
+    "seed": 760503
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The pilot's lawyer's artist's manager's guitar is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "guitar",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "pilot",
+      "lawyer",
+      "artist",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t04",
+    "seed": 760504
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's student's neighbor's professor's boat is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "boat",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "teacher",
+      "student",
+      "neighbor",
+      "professor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t05",
+    "seed": 760505
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The artist's pilot's farmer's chef's briefcase is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "briefcase",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "artist",
+      "pilot",
+      "farmer",
+      "chef"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t06",
+    "seed": 760506
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's neighbor's manager's professor's office is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "office",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "teacher",
+      "neighbor",
+      "manager",
+      "professor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t07",
+    "seed": 760507
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The professor's engineer's farmer's aunt's guitar is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "guitar",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "professor",
+      "engineer",
+      "farmer",
+      "aunt"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t08",
+    "seed": 760508
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The farmer's doctor's chef's student's book is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "book",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "farmer",
+      "doctor",
+      "chef",
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t09",
+    "seed": 760509
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The pilot's farmer's director's artist's briefcase is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "briefcase",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "pilot",
+      "farmer",
+      "director",
+      "artist"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t10",
+    "seed": 760510
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The writer's nurse's cousin's artist's book is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "book",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "writer",
+      "nurse",
+      "cousin",
+      "artist"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t11",
+    "seed": 760511
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The artist's writer's manager's student's telescope is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "telescope",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "artist",
+      "writer",
+      "manager",
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t12",
+    "seed": 760512
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The director's teacher's farmer's pilot's house is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "house",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "director",
+      "teacher",
+      "farmer",
+      "pilot"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t13",
+    "seed": 760513
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The cousin's pilot's student's artist's book is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "book",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "cousin",
+      "pilot",
+      "student",
+      "artist"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t14",
+    "seed": 760514
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The pilot's aunt's writer's farmer's book is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "book",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "pilot",
+      "aunt",
+      "writer",
+      "farmer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t15",
+    "seed": 760515
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chef's captain's artist's student's desk is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "desk",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "chef",
+      "captain",
+      "artist",
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t16",
+    "seed": 760516
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The manager's engineer's director's writer's watch is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "watch",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "manager",
+      "engineer",
+      "director",
+      "writer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t17",
+    "seed": 760517
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The director's pilot's neighbor's artist's desk is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "desk",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "director",
+      "pilot",
+      "neighbor",
+      "artist"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t18",
+    "seed": 760518
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The aunt's professor's teacher's friend's jacket is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "jacket",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "aunt",
+      "professor",
+      "teacher",
+      "friend"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d5_t19",
+    "seed": 760519
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The student's lawyer's engineer's chef's teacher's house is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "house",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "student",
+      "lawyer",
+      "engineer",
+      "chef",
+      "teacher"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t00",
+    "seed": 760600
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The director's engineer's manager's farmer's professor's book is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "book",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "director",
+      "engineer",
+      "manager",
+      "farmer",
+      "professor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t01",
+    "seed": 760601
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The artist's neighbor's doctor's chef's uncle's desk is unusual.",
+    "question": "In the following sentence, what is unusual?",
+    "correct_answer": "desk",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "artist",
+      "neighbor",
+      "doctor",
+      "chef",
+      "uncle"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t02",
+    "seed": 760602
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The chef's writer's engineer's doctor's captain's telescope is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "telescope",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "chef",
+      "writer",
+      "engineer",
+      "doctor",
+      "captain"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t03",
+    "seed": 760603
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The nurse's captain's aunt's farmer's cousin's watch is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "watch",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "nurse",
+      "captain",
+      "aunt",
+      "farmer",
+      "cousin"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t04",
+    "seed": 760604
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The captain's nurse's uncle's director's engineer's car is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "car",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "captain",
+      "nurse",
+      "uncle",
+      "director",
+      "engineer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t05",
+    "seed": 760605
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The friend's artist's engineer's pilot's chef's umbrella is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "umbrella",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "friend",
+      "artist",
+      "engineer",
+      "pilot",
+      "chef"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t06",
+    "seed": 760606
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The writer's aunt's nurse's captain's neighbor's chair is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "chair",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "writer",
+      "aunt",
+      "nurse",
+      "captain",
+      "neighbor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t07",
+    "seed": 760607
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's neighbor's manager's doctor's professor's chair is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "chair",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "teacher",
+      "neighbor",
+      "manager",
+      "doctor",
+      "professor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t08",
+    "seed": 760608
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The farmer's professor's teacher's friend's manager's watch is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "watch",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "farmer",
+      "professor",
+      "teacher",
+      "friend",
+      "manager"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t09",
+    "seed": 760609
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The artist's engineer's manager's pilot's cousin's bicycle is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "bicycle",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "artist",
+      "engineer",
+      "manager",
+      "pilot",
+      "cousin"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t10",
+    "seed": 760610
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The engineer's lawyer's teacher's neighbor's student's watch is damaged.",
+    "question": "In the following sentence, what is damaged?",
+    "correct_answer": "watch",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "engineer",
+      "lawyer",
+      "teacher",
+      "neighbor",
+      "student"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t11",
+    "seed": 760611
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The lawyer's director's chef's nurse's cousin's office is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "office",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "lawyer",
+      "director",
+      "chef",
+      "nurse",
+      "cousin"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t12",
+    "seed": 760612
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's uncle's friend's pilot's neighbor's house is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "house",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "teacher",
+      "uncle",
+      "friend",
+      "pilot",
+      "neighbor"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t13",
+    "seed": 760613
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The director's doctor's chef's teacher's aunt's office is ancient.",
+    "question": "In the following sentence, what is ancient?",
+    "correct_answer": "office",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "director",
+      "doctor",
+      "chef",
+      "teacher",
+      "aunt"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t14",
+    "seed": 760614
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The aunt's student's captain's doctor's writer's car is broken.",
+    "question": "In the following sentence, what is broken?",
+    "correct_answer": "car",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "aunt",
+      "student",
+      "captain",
+      "doctor",
+      "writer"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t15",
+    "seed": 760615
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The neighbor's captain's teacher's uncle's friend's desk is impressive.",
+    "question": "In the following sentence, what is impressive?",
+    "correct_answer": "desk",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "neighbor",
+      "captain",
+      "teacher",
+      "uncle",
+      "friend"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t16",
+    "seed": 760616
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The aunt's writer's lawyer's neighbor's captain's book is beautiful.",
+    "question": "In the following sentence, what is beautiful?",
+    "correct_answer": "book",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "aunt",
+      "writer",
+      "lawyer",
+      "neighbor",
+      "captain"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t17",
+    "seed": 760617
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The uncle's neighbor's friend's artist's nurse's phone is valuable.",
+    "question": "In the following sentence, what is valuable?",
+    "correct_answer": "phone",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "uncle",
+      "neighbor",
+      "friend",
+      "artist",
+      "nurse"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t18",
+    "seed": 760618
+  },
+  {
+    "domain": "B_possessive_chain",
+    "sentence": "The teacher's artist's aunt's chef's uncle's car is expensive.",
+    "question": "In the following sentence, what is expensive?",
+    "correct_answer": "car",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "teacher",
+      "artist",
+      "aunt",
+      "chef",
+      "uncle"
+    ],
+    "answer_position": "last_before_verb",
+    "trial_id": "B_d6_t19",
+    "seed": 760619
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "ticket",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t00",
+    "seed": 770100
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The document was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "document",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t01",
+    "seed": 770101
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The gift was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "gift",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t02",
+    "seed": 770102
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The report was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "report",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t03",
+    "seed": 770103
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The certificate was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "certificate",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t04",
+    "seed": 770104
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t05",
+    "seed": 770105
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t06",
+    "seed": 770106
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The order was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "order",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t07",
+    "seed": 770107
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t08",
+    "seed": 770108
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "file",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t09",
+    "seed": 770109
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The message got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "message",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t10",
+    "seed": 770110
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "invoice",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t11",
+    "seed": 770111
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "package",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t12",
+    "seed": 770112
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t13",
+    "seed": 770113
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The bill was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "bill",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t14",
+    "seed": 770114
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "ticket",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t15",
+    "seed": 770115
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "package",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t16",
+    "seed": 770116
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The report got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "report",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t17",
+    "seed": 770117
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t18",
+    "seed": 770118
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The gift disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "gift",
+    "depth": 1,
+    "n_nouns": 1,
+    "distractor_nouns": [],
+    "answer_position": "first",
+    "trial_id": "C_d1_t19",
+    "seed": 770119
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The notice from the headquarters was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "notice",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t00",
+    "seed": 770200
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the lawyer was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "lawyer"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t01",
+    "seed": 770201
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The letter from the university was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "letter",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t02",
+    "seed": 770202
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The permit from the embassy got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "permit",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "embassy"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t03",
+    "seed": 770203
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the headquarters was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t04",
+    "seed": 770204
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The bill from the embassy was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "bill",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "embassy"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t05",
+    "seed": 770205
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The message from the branch arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "message",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "branch"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t06",
+    "seed": 770206
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the consulate was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t07",
+    "seed": 770207
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The receipt from the corporation was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "receipt",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "corporation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t08",
+    "seed": 770208
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the headquarters got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "file",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t09",
+    "seed": 770209
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The document from the department was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "document",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "department"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t10",
+    "seed": 770210
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the company was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "company"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t11",
+    "seed": 770211
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package from the consulate disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "package",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t12",
+    "seed": 770212
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the embassy disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "voucher",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "embassy"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t13",
+    "seed": 770213
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The letter from the bank was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "letter",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t14",
+    "seed": 770214
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The document from the hospital was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "document",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "hospital"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t15",
+    "seed": 770215
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package from the branch was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "package",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "branch"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t16",
+    "seed": 770216
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the lawyer arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "proposal",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "lawyer"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t17",
+    "seed": 770217
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The document from the firm was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "document",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "firm"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t18",
+    "seed": 770218
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The memo from the department was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "memo",
+    "depth": 2,
+    "n_nouns": 2,
+    "distractor_nouns": [
+      "department"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d2_t19",
+    "seed": 770219
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The report from the corporation from the hospital was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "report",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "corporation",
+      "hospital"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t00",
+    "seed": 770300
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the university from the bank was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "university",
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t01",
+    "seed": 770301
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the bureau from the division got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "voucher",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "bureau",
+      "division"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t02",
+    "seed": 770302
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the ministry from the hospital was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "ministry",
+      "hospital"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t03",
+    "seed": 770303
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The notice from the ministry from the headquarters disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "notice",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "ministry",
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t04",
+    "seed": 770304
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket from the bank from the embassy disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "ticket",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "bank",
+      "embassy"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t05",
+    "seed": 770305
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the ministry from the headquarters was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "ministry",
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t06",
+    "seed": 770306
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice from the university from the doctor was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invoice",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "university",
+      "doctor"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t07",
+    "seed": 770307
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The certificate from the ministry from the bureau was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "certificate",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "ministry",
+      "bureau"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t08",
+    "seed": 770308
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The gift from the doctor from the institute was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "gift",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "doctor",
+      "institute"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t09",
+    "seed": 770309
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The message from the headquarters from the agency disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "message",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "headquarters",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t10",
+    "seed": 770310
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package from the bank from the corporation disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "package",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "bank",
+      "corporation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t11",
+    "seed": 770311
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the agency from the company was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "agency",
+      "company"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t12",
+    "seed": 770312
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The notice from the firm from the agency got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "notice",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "firm",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t13",
+    "seed": 770313
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The notice from the agency from the office arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "notice",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "agency",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t14",
+    "seed": 770314
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The contract from the consulate from the agency got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "contract",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "consulate",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t15",
+    "seed": 770315
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The gift from the bureau from the office got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "gift",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "bureau",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t16",
+    "seed": 770316
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The order from the embassy from the headquarters disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "order",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "embassy",
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t17",
+    "seed": 770317
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The receipt from the ministry from the doctor was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "receipt",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "ministry",
+      "doctor"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t18",
+    "seed": 770318
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the ministry from the bank was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 3,
+    "n_nouns": 3,
+    "distractor_nouns": [
+      "ministry",
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d3_t19",
+    "seed": 770319
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The memo from the institute from the firm from the division was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "memo",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "institute",
+      "firm",
+      "division"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t00",
+    "seed": 770400
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The letter from the firm from the branch from the corporation was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "letter",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "firm",
+      "branch",
+      "corporation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t01",
+    "seed": 770401
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket from the hospital from the university from the office got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "ticket",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "hospital",
+      "university",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t02",
+    "seed": 770402
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice from the doctor from the embassy from the hospital was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invoice",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "doctor",
+      "embassy",
+      "hospital"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t03",
+    "seed": 770403
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the division from the office from the consulate was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "division",
+      "office",
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t04",
+    "seed": 770404
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The memo from the office from the firm from the university arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "memo",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "office",
+      "firm",
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t05",
+    "seed": 770405
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the branch from the hospital from the consulate was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "branch",
+      "hospital",
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t06",
+    "seed": 770406
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The gift from the doctor from the university from the agency disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "gift",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "doctor",
+      "university",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t07",
+    "seed": 770407
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the branch from the corporation from the bureau was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "branch",
+      "corporation",
+      "bureau"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t08",
+    "seed": 770408
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The letter from the branch from the foundation from the office got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "letter",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "branch",
+      "foundation",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t09",
+    "seed": 770409
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invitation from the foundation from the hospital from the doctor was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invitation",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "foundation",
+      "hospital",
+      "doctor"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t10",
+    "seed": 770410
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the headquarters from the foundation from the bank was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "headquarters",
+      "foundation",
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t11",
+    "seed": 770411
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket from the hospital from the agency from the foundation was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "ticket",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "hospital",
+      "agency",
+      "foundation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t12",
+    "seed": 770412
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The contract from the firm from the institute from the foundation got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "contract",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "firm",
+      "institute",
+      "foundation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t13",
+    "seed": 770413
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the doctor from the lawyer from the corporation was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "doctor",
+      "lawyer",
+      "corporation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t14",
+    "seed": 770414
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The permit from the university from the firm from the headquarters got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "permit",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "university",
+      "firm",
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t15",
+    "seed": 770415
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The bill from the agency from the doctor from the consulate was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "bill",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "agency",
+      "doctor",
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t16",
+    "seed": 770416
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The report from the bank from the university from the consulate was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "report",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "bank",
+      "university",
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t17",
+    "seed": 770417
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The receipt from the lawyer from the consulate from the foundation was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "receipt",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "lawyer",
+      "consulate",
+      "foundation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t18",
+    "seed": 770418
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the hospital from the doctor from the university was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 4,
+    "n_nouns": 4,
+    "distractor_nouns": [
+      "hospital",
+      "doctor",
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d4_t19",
+    "seed": 770419
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket from the bureau from the office from the university from the division disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "ticket",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "bureau",
+      "office",
+      "university",
+      "division"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t00",
+    "seed": 770500
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The letter from the institute from the branch from the lawyer from the ministry was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "letter",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "institute",
+      "branch",
+      "lawyer",
+      "ministry"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t01",
+    "seed": 770501
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the ministry from the embassy from the lawyer from the office disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "voucher",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "ministry",
+      "embassy",
+      "lawyer",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t02",
+    "seed": 770502
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invitation from the embassy from the firm from the university from the branch was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invitation",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "embassy",
+      "firm",
+      "university",
+      "branch"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t03",
+    "seed": 770503
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the corporation from the embassy from the headquarters from the branch got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "file",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "corporation",
+      "embassy",
+      "headquarters",
+      "branch"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t04",
+    "seed": 770504
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The receipt from the division from the doctor from the bureau from the institute was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "receipt",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "division",
+      "doctor",
+      "bureau",
+      "institute"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t05",
+    "seed": 770505
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The receipt from the lawyer from the firm from the corporation from the hospital was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "receipt",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "lawyer",
+      "firm",
+      "corporation",
+      "hospital"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t06",
+    "seed": 770506
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package from the company from the ministry from the doctor from the bank disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "package",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "company",
+      "ministry",
+      "doctor",
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t07",
+    "seed": 770507
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The bill from the company from the consulate from the branch from the lawyer was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "bill",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "company",
+      "consulate",
+      "branch",
+      "lawyer"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t08",
+    "seed": 770508
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The permit from the foundation from the bank from the bureau from the branch was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "permit",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "foundation",
+      "bank",
+      "bureau",
+      "branch"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t09",
+    "seed": 770509
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The certificate from the agency from the consulate from the foundation from the bureau was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "certificate",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "agency",
+      "consulate",
+      "foundation",
+      "bureau"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t10",
+    "seed": 770510
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the ministry from the company from the institute from the university disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "proposal",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "ministry",
+      "company",
+      "institute",
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t11",
+    "seed": 770511
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the university from the foundation from the division from the embassy disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "file",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "university",
+      "foundation",
+      "division",
+      "embassy"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t12",
+    "seed": 770512
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The permit from the company from the office from the bureau from the university disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "permit",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "company",
+      "office",
+      "bureau",
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t13",
+    "seed": 770513
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice from the division from the institute from the university from the bank arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "invoice",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "division",
+      "institute",
+      "university",
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t14",
+    "seed": 770514
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The bill from the ministry from the embassy from the doctor from the bureau was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "bill",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "ministry",
+      "embassy",
+      "doctor",
+      "bureau"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t15",
+    "seed": 770515
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the hospital from the office from the university from the headquarters was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "hospital",
+      "office",
+      "university",
+      "headquarters"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t16",
+    "seed": 770516
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The ticket from the bank from the consulate from the company from the lawyer was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "ticket",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "bank",
+      "consulate",
+      "company",
+      "lawyer"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t17",
+    "seed": 770517
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The notice from the ministry from the office from the lawyer from the firm disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "notice",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "ministry",
+      "office",
+      "lawyer",
+      "firm"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t18",
+    "seed": 770518
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice from the embassy from the corporation from the office from the foundation disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "invoice",
+    "depth": 5,
+    "n_nouns": 5,
+    "distractor_nouns": [
+      "embassy",
+      "corporation",
+      "office",
+      "foundation"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d5_t19",
+    "seed": 770519
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invitation from the office from the ministry from the embassy from the lawyer from the firm was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invitation",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "office",
+      "ministry",
+      "embassy",
+      "lawyer",
+      "firm"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t00",
+    "seed": 770600
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The bill from the branch from the ministry from the institute from the headquarters from the lawyer disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "bill",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "branch",
+      "ministry",
+      "institute",
+      "headquarters",
+      "lawyer"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t01",
+    "seed": 770601
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the university from the hospital from the agency from the lawyer from the doctor was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "file",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "university",
+      "hospital",
+      "agency",
+      "lawyer",
+      "doctor"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t02",
+    "seed": 770602
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The memo from the ministry from the office from the branch from the division from the consulate was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "memo",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "ministry",
+      "office",
+      "branch",
+      "division",
+      "consulate"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t03",
+    "seed": 770603
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The certificate from the bank from the institute from the firm from the consulate from the department was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "certificate",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bank",
+      "institute",
+      "firm",
+      "consulate",
+      "department"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t04",
+    "seed": 770604
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The contract from the foundation from the lawyer from the bank from the institute from the office got lost.",
+    "question": "In the following sentence, what got?",
+    "correct_answer": "contract",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "foundation",
+      "lawyer",
+      "bank",
+      "institute",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t05",
+    "seed": 770605
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The file from the headquarters from the university from the ministry from the institute from the lawyer arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "file",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "headquarters",
+      "university",
+      "ministry",
+      "institute",
+      "lawyer"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t06",
+    "seed": 770606
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice from the bureau from the embassy from the foundation from the firm from the university was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invoice",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bureau",
+      "embassy",
+      "foundation",
+      "firm",
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t07",
+    "seed": 770607
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The voucher from the office from the institute from the embassy from the lawyer from the university was opened.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "voucher",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "office",
+      "institute",
+      "embassy",
+      "lawyer",
+      "university"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t08",
+    "seed": 770608
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The report from the bank from the firm from the office from the division from the bureau was found.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "report",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bank",
+      "firm",
+      "office",
+      "division",
+      "bureau"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t09",
+    "seed": 770609
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The report from the bank from the firm from the branch from the university from the office arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "report",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bank",
+      "firm",
+      "branch",
+      "university",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t10",
+    "seed": 770610
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invoice from the foundation from the university from the department from the consulate from the agency was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "invoice",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "foundation",
+      "university",
+      "department",
+      "consulate",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t11",
+    "seed": 770611
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The receipt from the branch from the embassy from the lawyer from the bank from the agency was signed.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "receipt",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "branch",
+      "embassy",
+      "lawyer",
+      "bank",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t12",
+    "seed": 770612
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The gift from the division from the branch from the department from the agency from the office arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "gift",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "division",
+      "branch",
+      "department",
+      "agency",
+      "office"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t13",
+    "seed": 770613
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invitation from the lawyer from the consulate from the corporation from the headquarters from the bank disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "invitation",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "lawyer",
+      "consulate",
+      "corporation",
+      "headquarters",
+      "bank"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t14",
+    "seed": 770614
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The invitation from the branch from the agency from the bureau from the hospital from the doctor disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "invitation",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "branch",
+      "agency",
+      "bureau",
+      "hospital",
+      "doctor"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t15",
+    "seed": 770615
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The certificate from the bank from the hospital from the agency from the institute from the department arrived yesterday.",
+    "question": "In the following sentence, what arrived?",
+    "correct_answer": "certificate",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bank",
+      "hospital",
+      "agency",
+      "institute",
+      "department"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t16",
+    "seed": 770616
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the bank from the headquarters from the bureau from the firm from the agency was delivered.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "proposal",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bank",
+      "headquarters",
+      "bureau",
+      "firm",
+      "agency"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t17",
+    "seed": 770617
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The proposal from the bureau from the company from the lawyer from the headquarters from the firm disappeared.",
+    "question": "In the following sentence, what disappeared?",
+    "correct_answer": "proposal",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "bureau",
+      "company",
+      "lawyer",
+      "headquarters",
+      "firm"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t18",
+    "seed": 770618
+  },
+  {
+    "domain": "C_prepositional_chain",
+    "sentence": "The package from the foundation from the lawyer from the doctor from the firm from the branch was approved.",
+    "question": "In the following sentence, what was?",
+    "correct_answer": "package",
+    "depth": 6,
+    "n_nouns": 6,
+    "distractor_nouns": [
+      "foundation",
+      "lawyer",
+      "doctor",
+      "firm",
+      "branch"
+    ],
+    "answer_position": "first",
+    "trial_id": "C_d6_t19",
+    "seed": 770619
+  }
+]

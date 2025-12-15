@@ -1,0 +1,4 @@
+model,acc_A_deep,acc_B_deep,acc_C_deep,inferred_pattern
+haiku,0.3625,0.9625,0.6375,unclear/mixed
+sonnet,1.0,0.9875,1.0,structural (all high)
+gpt4o-mini,0.975,1.0,1.0,structural (all high)

@@ -1,0 +1,4 @@
+model,collapse_detected,collapse_from,collapse_to,drop_magnitude,post_collapse_accuracy
+gpt4o-mini,False,,,,
+haiku,True,1.0,2.0,0.33333333333333337,0.24545454545454548
+sonnet,False,,,,

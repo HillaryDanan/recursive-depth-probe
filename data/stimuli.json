@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "The wolf approached the cat.",
+    "correct_answer": "wolf",
+    "depth": 1,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d1_t0"
+  },
+  {
+    "sentence": "The dog chased the rabbit.",
+    "correct_answer": "dog",
+    "depth": 1,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d1_t1"
+  },
+  {
+    "sentence": "The deer watched the wolf.",
+    "correct_answer": "deer",
+    "depth": 1,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d1_t2"
+  },
+  {
+    "sentence": "The bear followed the mouse.",
+    "correct_answer": "bear",
+    "depth": 1,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d1_t3"
+  },
+  {
+    "sentence": "The wolf startled the cat.",
+    "correct_answer": "wolf",
+    "depth": 1,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d1_t4"
+  },
+  {
+    "sentence": "The bear startled the wolf.",
+    "correct_answer": "bear",
+    "depth": 1,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d1_t5"
+  },
+  {
+    "sentence": "The fox watched the dog.",
+    "correct_answer": "fox",
+    "depth": 1,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d1_t6"
+  },
+  {
+    "sentence": "The dog followed the horse.",
+    "correct_answer": "dog",
+    "depth": 1,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d1_t7"
+  },
+  {
+    "sentence": "The deer followed the bear.",
+    "correct_answer": "deer",
+    "depth": 1,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d1_t8"
+  },
+  {
+    "sentence": "The bird approached the dog.",
+    "correct_answer": "bird",
+    "depth": 1,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d1_t9"
+  },
+  {
+    "sentence": "The bear that the man knew followed the deer.",
+    "correct_answer": "bear",
+    "depth": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d2_t0"
+  },
+  {
+    "sentence": "The mouse that the man saw chased the fox.",
+    "correct_answer": "mouse",
+    "depth": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d2_t1"
+  },
+  {
+    "sentence": "The dog that the farmer saw startled the wolf.",
+    "correct_answer": "dog",
+    "depth": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d2_t2"
+  },
+  {
+    "sentence": "The cat that the farmer met followed the rabbit.",
+    "correct_answer": "cat",
+    "depth": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d2_t3"
+  },
+  {
+    "sentence": "The deer that the man saw followed the horse.",
+    "correct_answer": "deer",
+    "depth": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d2_t4"
+  },
+  {
+    "sentence": "The bear that the man knew approached the cat.",
+    "correct_answer": "bear",
+    "depth": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d2_t5"
+  },
+  {
+    "sentence": "The deer that the chef met chased the cat.",
+    "correct_answer": "deer",
+    "depth": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d2_t6"
+  },
+  {
+    "sentence": "The horse that the woman met startled the bear.",
+    "correct_answer": "horse",
+    "depth": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d2_t7"
+  },
+  {
+    "sentence": "The bird that the farmer saw chased the bear.",
+    "correct_answer": "bird",
+    "depth": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d2_t8"
+  },
+  {
+    "sentence": "The rabbit that the writer saw approached the bird.",
+    "correct_answer": "rabbit",
+    "depth": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d2_t9"
+  },
+  {
+    "sentence": "The bird that the teacher that the woman helped knew followed the fox.",
+    "correct_answer": "bird",
+    "depth": 3,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d3_t0"
+  },
+  {
+    "sentence": "The rabbit that the artist that the boy called met watched the wolf.",
+    "correct_answer": "rabbit",
+    "depth": 3,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d3_t1"
+  },
+  {
+    "sentence": "The horse that the chef that the man helped called approached the dog.",
+    "correct_answer": "horse",
+    "depth": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d3_t2"
+  },
+  {
+    "sentence": "The deer that the artist that the girl called saw startled the rabbit.",
+    "correct_answer": "deer",
+    "depth": 3,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d3_t3"
+  },
+  {
+    "sentence": "The bear that the artist that the girl called saw chased the cat.",
+    "correct_answer": "bear",
+    "depth": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d3_t4"
+  },
+  {
+    "sentence": "The dog that the chef that the doctor knew saw watched the deer.",
+    "correct_answer": "dog",
+    "depth": 3,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d3_t5"
+  },
+  {
+    "sentence": "The deer that the woman that the teacher met knew followed the mouse.",
+    "correct_answer": "deer",
+    "depth": 3,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d3_t6"
+  },
+  {
+    "sentence": "The fox that the chef that the farmer saw knew approached the deer.",
+    "correct_answer": "fox",
+    "depth": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d3_t7"
+  },
+  {
+    "sentence": "The rabbit that the artist that the man called saw approached the bird.",
+    "correct_answer": "rabbit",
+    "depth": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d3_t8"
+  },
+  {
+    "sentence": "The bear that the writer that the doctor helped met approached the cat.",
+    "correct_answer": "bear",
+    "depth": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d3_t9"
+  },
+  {
+    "sentence": "The wolf that the chef that the artist that the girl called helped met approached the mouse.",
+    "correct_answer": "wolf",
+    "depth": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d4_t0"
+  },
+  {
+    "sentence": "The wolf that the boy that the chef that the girl called knew helped approached the deer.",
+    "correct_answer": "wolf",
+    "depth": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d4_t1"
+  },
+  {
+    "sentence": "The wolf that the artist that the woman that the man met called saw startled the horse.",
+    "correct_answer": "wolf",
+    "depth": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d4_t2"
+  },
+  {
+    "sentence": "The horse that the girl that the boy that the man knew met called startled the cat.",
+    "correct_answer": "horse",
+    "depth": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d4_t3"
+  },
+  {
+    "sentence": "The bear that the doctor that the artist that the man knew saw helped chased the wolf.",
+    "correct_answer": "bear",
+    "depth": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d4_t4"
+  },
+  {
+    "sentence": "The horse that the writer that the woman that the boy helped saw called chased the fox.",
+    "correct_answer": "horse",
+    "depth": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d4_t5"
+  },
+  {
+    "sentence": "The deer that the girl that the doctor that the boy called helped saw startled the cat.",
+    "correct_answer": "deer",
+    "depth": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d4_t6"
+  },
+  {
+    "sentence": "The bird that the teacher that the boy that the farmer saw knew helped chased the bear.",
+    "correct_answer": "bird",
+    "depth": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d4_t7"
+  },
+  {
+    "sentence": "The deer that the woman that the teacher that the doctor met called helped chased the cat.",
+    "correct_answer": "deer",
+    "depth": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d4_t8"
+  },
+  {
+    "sentence": "The bear that the man that the writer that the teacher saw met helped startled the cat.",
+    "correct_answer": "bear",
+    "depth": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d4_t9"
+  },
+  {
+    "sentence": "The horse that the doctor that the chef that the artist that the man helped knew met saw approached the mouse.",
+    "correct_answer": "horse",
+    "depth": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d5_t0"
+  },
+  {
+    "sentence": "The mouse that the teacher that the chef that the woman that the man met called helped knew startled the bird.",
+    "correct_answer": "mouse",
+    "depth": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d5_t1"
+  },
+  {
+    "sentence": "The rabbit that the man that the writer that the chef that the girl saw helped knew called chased the fox.",
+    "correct_answer": "rabbit",
+    "depth": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d5_t2"
+  },
+  {
+    "sentence": "The bird that the chef that the teacher that the writer that the farmer met saw called helped startled the deer.",
+    "correct_answer": "bird",
+    "depth": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d5_t3"
+  },
+  {
+    "sentence": "The fox that the teacher that the doctor that the boy that the girl met helped saw knew chased the rabbit.",
+    "correct_answer": "fox",
+    "depth": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d5_t4"
+  },
+  {
+    "sentence": "The horse that the girl that the man that the writer that the artist called saw knew met followed the deer.",
+    "correct_answer": "horse",
+    "depth": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d5_t5"
+  },
+  {
+    "sentence": "The bird that the boy that the woman that the writer that the farmer helped saw knew called startled the wolf.",
+    "correct_answer": "bird",
+    "depth": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d5_t6"
+  },
+  {
+    "sentence": "The bird that the doctor that the farmer that the writer that the girl saw called met knew startled the cat.",
+    "correct_answer": "bird",
+    "depth": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d5_t7"
+  },
+  {
+    "sentence": "The dog that the writer that the boy that the teacher that the woman saw met helped called chased the wolf.",
+    "correct_answer": "dog",
+    "depth": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d5_t8"
+  },
+  {
+    "sentence": "The deer that the doctor that the girl that the writer that the woman met knew called saw followed the rabbit.",
+    "correct_answer": "deer",
+    "depth": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d5_t9"
+  },
+  {
+    "sentence": "The bird that the teacher that the boy that the farmer that the artist that the doctor saw knew called met helped chased the horse.",
+    "correct_answer": "bird",
+    "depth": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d6_t0"
+  },
+  {
+    "sentence": "The fox that the farmer that the boy that the man that the doctor that the chef helped saw called met knew approached the mouse.",
+    "correct_answer": "fox",
+    "depth": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d6_t1"
+  },
+  {
+    "sentence": "The bird that the woman that the farmer that the man that the doctor that the chef helped called knew met saw followed the wolf.",
+    "correct_answer": "bird",
+    "depth": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d6_t2"
+  },
+  {
+    "sentence": "The rabbit that the teacher that the writer that the girl that the artist that the boy met knew helped called saw chased the deer.",
+    "correct_answer": "rabbit",
+    "depth": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d6_t3"
+  },
+  {
+    "sentence": "The deer that the teacher that the artist that the farmer that the chef that the boy knew helped met saw called approached the rabbit.",
+    "correct_answer": "deer",
+    "depth": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d6_t4"
+  },
+  {
+    "sentence": "The horse that the teacher that the chef that the artist that the woman that the writer met knew saw called helped startled the rabbit.",
+    "correct_answer": "horse",
+    "depth": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d6_t5"
+  },
+  {
+    "sentence": "The dog that the man that the chef that the boy that the writer that the doctor called met knew saw helped followed the cat.",
+    "correct_answer": "dog",
+    "depth": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d6_t6"
+  },
+  {
+    "sentence": "The fox that the teacher that the doctor that the chef that the writer that the girl helped knew called saw met approached the mouse.",
+    "correct_answer": "fox",
+    "depth": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d6_t7"
+  },
+  {
+    "sentence": "The horse that the artist that the doctor that the teacher that the farmer that the woman met knew called helped saw watched the fox.",
+    "correct_answer": "horse",
+    "depth": 6,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d6_t8"
+  },
+  {
+    "sentence": "The mouse that the farmer that the girl that the teacher that the doctor that the woman met saw knew helped called startled the bird.",
+    "correct_answer": "mouse",
+    "depth": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d6_t9"
+  }
+]

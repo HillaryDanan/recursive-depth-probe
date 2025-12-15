@@ -1,0 +1,6632 @@
+[
+  {
+    "sentence": "The dog watched the tiger.",
+    "correct_answer": "dog",
+    "main_object": "tiger",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d01_t00",
+    "seed": 51000
+  },
+  {
+    "sentence": "The wolf followed the lion.",
+    "correct_answer": "wolf",
+    "main_object": "lion",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d01_t01",
+    "seed": 51001
+  },
+  {
+    "sentence": "The rabbit chased the cat.",
+    "correct_answer": "rabbit",
+    "main_object": "cat",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t02",
+    "seed": 51002
+  },
+  {
+    "sentence": "The wolf approached the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t03",
+    "seed": 51003
+  },
+  {
+    "sentence": "The lion startled the snake.",
+    "correct_answer": "lion",
+    "main_object": "snake",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d01_t04",
+    "seed": 51004
+  },
+  {
+    "sentence": "The fox followed the bird.",
+    "correct_answer": "fox",
+    "main_object": "bird",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d01_t05",
+    "seed": 51005
+  },
+  {
+    "sentence": "The wolf watched the deer.",
+    "correct_answer": "wolf",
+    "main_object": "deer",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d01_t06",
+    "seed": 51006
+  },
+  {
+    "sentence": "The bear approached the snake.",
+    "correct_answer": "bear",
+    "main_object": "snake",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t07",
+    "seed": 51007
+  },
+  {
+    "sentence": "The bear startled the wolf.",
+    "correct_answer": "bear",
+    "main_object": "wolf",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d01_t08",
+    "seed": 51008
+  },
+  {
+    "sentence": "The horse chased the owl.",
+    "correct_answer": "horse",
+    "main_object": "owl",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t09",
+    "seed": 51009
+  },
+  {
+    "sentence": "The wolf startled the dog.",
+    "correct_answer": "wolf",
+    "main_object": "dog",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d01_t10",
+    "seed": 51010
+  },
+  {
+    "sentence": "The rabbit chased the eagle.",
+    "correct_answer": "rabbit",
+    "main_object": "eagle",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t11",
+    "seed": 51011
+  },
+  {
+    "sentence": "The dog chased the bird.",
+    "correct_answer": "dog",
+    "main_object": "bird",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t12",
+    "seed": 51012
+  },
+  {
+    "sentence": "The bird approached the cat.",
+    "correct_answer": "bird",
+    "main_object": "cat",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t13",
+    "seed": 51013
+  },
+  {
+    "sentence": "The eagle approached the dog.",
+    "correct_answer": "eagle",
+    "main_object": "dog",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t14",
+    "seed": 51014
+  },
+  {
+    "sentence": "The rabbit followed the bear.",
+    "correct_answer": "rabbit",
+    "main_object": "bear",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d01_t15",
+    "seed": 51015
+  },
+  {
+    "sentence": "The fox approached the lion.",
+    "correct_answer": "fox",
+    "main_object": "lion",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t16",
+    "seed": 51016
+  },
+  {
+    "sentence": "The mouse approached the eagle.",
+    "correct_answer": "mouse",
+    "main_object": "eagle",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t17",
+    "seed": 51017
+  },
+  {
+    "sentence": "The eagle startled the mouse.",
+    "correct_answer": "eagle",
+    "main_object": "mouse",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d01_t18",
+    "seed": 51018
+  },
+  {
+    "sentence": "The dog watched the horse.",
+    "correct_answer": "dog",
+    "main_object": "horse",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d01_t19",
+    "seed": 51019
+  },
+  {
+    "sentence": "The cat approached the deer.",
+    "correct_answer": "cat",
+    "main_object": "deer",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t20",
+    "seed": 51020
+  },
+  {
+    "sentence": "The bird approached the rabbit.",
+    "correct_answer": "bird",
+    "main_object": "rabbit",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d01_t21",
+    "seed": 51021
+  },
+  {
+    "sentence": "The bear watched the wolf.",
+    "correct_answer": "bear",
+    "main_object": "wolf",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d01_t22",
+    "seed": 51022
+  },
+  {
+    "sentence": "The bear chased the wolf.",
+    "correct_answer": "bear",
+    "main_object": "wolf",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t23",
+    "seed": 51023
+  },
+  {
+    "sentence": "The dog followed the tiger.",
+    "correct_answer": "dog",
+    "main_object": "tiger",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d01_t24",
+    "seed": 51024
+  },
+  {
+    "sentence": "The cat chased the rabbit.",
+    "correct_answer": "cat",
+    "main_object": "rabbit",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t25",
+    "seed": 51025
+  },
+  {
+    "sentence": "The wolf chased the horse.",
+    "correct_answer": "wolf",
+    "main_object": "horse",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d01_t26",
+    "seed": 51026
+  },
+  {
+    "sentence": "The bird followed the fox.",
+    "correct_answer": "bird",
+    "main_object": "fox",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d01_t27",
+    "seed": 51027
+  },
+  {
+    "sentence": "The fox followed the eagle.",
+    "correct_answer": "fox",
+    "main_object": "eagle",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d01_t28",
+    "seed": 51028
+  },
+  {
+    "sentence": "The snake startled the tiger.",
+    "correct_answer": "snake",
+    "main_object": "tiger",
+    "embedded_humans": [],
+    "depth": 1,
+    "n_nouns": 2,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d01_t29",
+    "seed": 51029
+  },
+  {
+    "sentence": "The bird that the girl admired watched the wolf.",
+    "correct_answer": "bird",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "girl"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d02_t00",
+    "seed": 52000
+  },
+  {
+    "sentence": "The fox that the mayor noticed startled the bird.",
+    "correct_answer": "fox",
+    "main_object": "bird",
+    "embedded_humans": [
+      "mayor"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d02_t01",
+    "seed": 52001
+  },
+  {
+    "sentence": "The eagle that the artist visited approached the wolf.",
+    "correct_answer": "eagle",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "artist"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t02",
+    "seed": 52002
+  },
+  {
+    "sentence": "The mouse that the sailor saw chased the bear.",
+    "correct_answer": "mouse",
+    "main_object": "bear",
+    "embedded_humans": [
+      "sailor"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t03",
+    "seed": 52003
+  },
+  {
+    "sentence": "The owl that the judge noticed followed the rabbit.",
+    "correct_answer": "owl",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "judge"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d02_t04",
+    "seed": 52004
+  },
+  {
+    "sentence": "The horse that the judge visited approached the mouse.",
+    "correct_answer": "horse",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "judge"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t05",
+    "seed": 52005
+  },
+  {
+    "sentence": "The bear that the farmer helped chased the owl.",
+    "correct_answer": "bear",
+    "main_object": "owl",
+    "embedded_humans": [
+      "farmer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t06",
+    "seed": 52006
+  },
+  {
+    "sentence": "The lion that the sailor called startled the bear.",
+    "correct_answer": "lion",
+    "main_object": "bear",
+    "embedded_humans": [
+      "sailor"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d02_t07",
+    "seed": 52007
+  },
+  {
+    "sentence": "The dog that the woman noticed approached the owl.",
+    "correct_answer": "dog",
+    "main_object": "owl",
+    "embedded_humans": [
+      "woman"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t08",
+    "seed": 52008
+  },
+  {
+    "sentence": "The snake that the girl liked chased the tiger.",
+    "correct_answer": "snake",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "girl"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t09",
+    "seed": 52009
+  },
+  {
+    "sentence": "The eagle that the singer noticed approached the dog.",
+    "correct_answer": "eagle",
+    "main_object": "dog",
+    "embedded_humans": [
+      "singer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t10",
+    "seed": 52010
+  },
+  {
+    "sentence": "The deer that the judge recognized approached the wolf.",
+    "correct_answer": "deer",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "judge"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t11",
+    "seed": 52011
+  },
+  {
+    "sentence": "The rabbit that the writer met followed the wolf.",
+    "correct_answer": "rabbit",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "writer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d02_t12",
+    "seed": 52012
+  },
+  {
+    "sentence": "The cat that the farmer visited chased the wolf.",
+    "correct_answer": "cat",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "farmer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t13",
+    "seed": 52013
+  },
+  {
+    "sentence": "The mouse that the man called chased the dog.",
+    "correct_answer": "mouse",
+    "main_object": "dog",
+    "embedded_humans": [
+      "man"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t14",
+    "seed": 52014
+  },
+  {
+    "sentence": "The owl that the teacher recognized approached the snake.",
+    "correct_answer": "owl",
+    "main_object": "snake",
+    "embedded_humans": [
+      "teacher"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t15",
+    "seed": 52015
+  },
+  {
+    "sentence": "The dog that the sailor trusted watched the cat.",
+    "correct_answer": "dog",
+    "main_object": "cat",
+    "embedded_humans": [
+      "sailor"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d02_t16",
+    "seed": 52016
+  },
+  {
+    "sentence": "The deer that the clerk admired approached the lion.",
+    "correct_answer": "deer",
+    "main_object": "lion",
+    "embedded_humans": [
+      "clerk"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t17",
+    "seed": 52017
+  },
+  {
+    "sentence": "The snake that the doctor admired chased the bear.",
+    "correct_answer": "snake",
+    "main_object": "bear",
+    "embedded_humans": [
+      "doctor"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t18",
+    "seed": 52018
+  },
+  {
+    "sentence": "The bird that the teacher met followed the snake.",
+    "correct_answer": "bird",
+    "main_object": "snake",
+    "embedded_humans": [
+      "teacher"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d02_t19",
+    "seed": 52019
+  },
+  {
+    "sentence": "The owl that the writer trusted startled the dog.",
+    "correct_answer": "owl",
+    "main_object": "dog",
+    "embedded_humans": [
+      "writer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d02_t20",
+    "seed": 52020
+  },
+  {
+    "sentence": "The bear that the farmer trusted approached the mouse.",
+    "correct_answer": "bear",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "farmer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t21",
+    "seed": 52021
+  },
+  {
+    "sentence": "The dog that the lawyer helped chased the fox.",
+    "correct_answer": "dog",
+    "main_object": "fox",
+    "embedded_humans": [
+      "lawyer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d02_t22",
+    "seed": 52022
+  },
+  {
+    "sentence": "The fox that the chef knew approached the bear.",
+    "correct_answer": "fox",
+    "main_object": "bear",
+    "embedded_humans": [
+      "chef"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t23",
+    "seed": 52023
+  },
+  {
+    "sentence": "The cat that the girl noticed startled the deer.",
+    "correct_answer": "cat",
+    "main_object": "deer",
+    "embedded_humans": [
+      "girl"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d02_t24",
+    "seed": 52024
+  },
+  {
+    "sentence": "The owl that the judge saw startled the bird.",
+    "correct_answer": "owl",
+    "main_object": "bird",
+    "embedded_humans": [
+      "judge"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d02_t25",
+    "seed": 52025
+  },
+  {
+    "sentence": "The bird that the pilot noticed followed the dog.",
+    "correct_answer": "bird",
+    "main_object": "dog",
+    "embedded_humans": [
+      "pilot"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d02_t26",
+    "seed": 52026
+  },
+  {
+    "sentence": "The cat that the boy visited approached the bear.",
+    "correct_answer": "cat",
+    "main_object": "bear",
+    "embedded_humans": [
+      "boy"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d02_t27",
+    "seed": 52027
+  },
+  {
+    "sentence": "The bird that the artist liked watched the owl.",
+    "correct_answer": "bird",
+    "main_object": "owl",
+    "embedded_humans": [
+      "artist"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d02_t28",
+    "seed": 52028
+  },
+  {
+    "sentence": "The fox that the writer helped watched the eagle.",
+    "correct_answer": "fox",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "writer"
+    ],
+    "depth": 2,
+    "n_nouns": 3,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d02_t29",
+    "seed": 52029
+  },
+  {
+    "sentence": "The wolf that the woman that the boy trusted recognized followed the bird.",
+    "correct_answer": "wolf",
+    "main_object": "bird",
+    "embedded_humans": [
+      "woman",
+      "boy"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t00",
+    "seed": 53000
+  },
+  {
+    "sentence": "The owl that the pilot that the farmer admired recognized approached the dog.",
+    "correct_answer": "owl",
+    "main_object": "dog",
+    "embedded_humans": [
+      "pilot",
+      "farmer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t01",
+    "seed": 53001
+  },
+  {
+    "sentence": "The eagle that the clerk that the sailor liked knew chased the horse.",
+    "correct_answer": "eagle",
+    "main_object": "horse",
+    "embedded_humans": [
+      "clerk",
+      "sailor"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d03_t02",
+    "seed": 53002
+  },
+  {
+    "sentence": "The cat that the boy that the singer recognized helped watched the wolf.",
+    "correct_answer": "cat",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "boy",
+      "singer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d03_t03",
+    "seed": 53003
+  },
+  {
+    "sentence": "The bear that the boy that the pilot called admired followed the rabbit.",
+    "correct_answer": "bear",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "boy",
+      "pilot"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t04",
+    "seed": 53004
+  },
+  {
+    "sentence": "The eagle that the teacher that the girl trusted admired startled the horse.",
+    "correct_answer": "eagle",
+    "main_object": "horse",
+    "embedded_humans": [
+      "teacher",
+      "girl"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d03_t05",
+    "seed": 53005
+  },
+  {
+    "sentence": "The horse that the woman that the man met liked approached the lion.",
+    "correct_answer": "horse",
+    "main_object": "lion",
+    "embedded_humans": [
+      "woman",
+      "man"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t06",
+    "seed": 53006
+  },
+  {
+    "sentence": "The snake that the farmer that the writer liked helped watched the mouse.",
+    "correct_answer": "snake",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "farmer",
+      "writer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d03_t07",
+    "seed": 53007
+  },
+  {
+    "sentence": "The horse that the nurse that the farmer called helped startled the rabbit.",
+    "correct_answer": "horse",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "nurse",
+      "farmer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d03_t08",
+    "seed": 53008
+  },
+  {
+    "sentence": "The dog that the artist that the farmer visited admired approached the bear.",
+    "correct_answer": "dog",
+    "main_object": "bear",
+    "embedded_humans": [
+      "artist",
+      "farmer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t09",
+    "seed": 53009
+  },
+  {
+    "sentence": "The snake that the woman that the doctor visited knew followed the bird.",
+    "correct_answer": "snake",
+    "main_object": "bird",
+    "embedded_humans": [
+      "woman",
+      "doctor"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t10",
+    "seed": 53010
+  },
+  {
+    "sentence": "The bear that the sailor that the woman liked remembered approached the horse.",
+    "correct_answer": "bear",
+    "main_object": "horse",
+    "embedded_humans": [
+      "sailor",
+      "woman"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t11",
+    "seed": 53011
+  },
+  {
+    "sentence": "The lion that the chef that the girl knew met approached the bear.",
+    "correct_answer": "lion",
+    "main_object": "bear",
+    "embedded_humans": [
+      "chef",
+      "girl"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t12",
+    "seed": 53012
+  },
+  {
+    "sentence": "The bird that the artist that the coach noticed trusted chased the tiger.",
+    "correct_answer": "bird",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "artist",
+      "coach"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d03_t13",
+    "seed": 53013
+  },
+  {
+    "sentence": "The owl that the man that the girl met admired chased the dog.",
+    "correct_answer": "owl",
+    "main_object": "dog",
+    "embedded_humans": [
+      "man",
+      "girl"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d03_t14",
+    "seed": 53014
+  },
+  {
+    "sentence": "The deer that the man that the artist saw recognized startled the mouse.",
+    "correct_answer": "deer",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "man",
+      "artist"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d03_t15",
+    "seed": 53015
+  },
+  {
+    "sentence": "The fox that the sailor that the judge recognized admired followed the rabbit.",
+    "correct_answer": "fox",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "sailor",
+      "judge"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t16",
+    "seed": 53016
+  },
+  {
+    "sentence": "The cat that the doctor that the sailor remembered recognized followed the lion.",
+    "correct_answer": "cat",
+    "main_object": "lion",
+    "embedded_humans": [
+      "doctor",
+      "sailor"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t17",
+    "seed": 53017
+  },
+  {
+    "sentence": "The rabbit that the coach that the girl recognized called followed the wolf.",
+    "correct_answer": "rabbit",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "coach",
+      "girl"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t18",
+    "seed": 53018
+  },
+  {
+    "sentence": "The bird that the mayor that the writer recognized called approached the snake.",
+    "correct_answer": "bird",
+    "main_object": "snake",
+    "embedded_humans": [
+      "mayor",
+      "writer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t19",
+    "seed": 53019
+  },
+  {
+    "sentence": "The eagle that the farmer that the singer liked visited followed the wolf.",
+    "correct_answer": "eagle",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "farmer",
+      "singer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t20",
+    "seed": 53020
+  },
+  {
+    "sentence": "The tiger that the farmer that the writer recognized visited approached the lion.",
+    "correct_answer": "tiger",
+    "main_object": "lion",
+    "embedded_humans": [
+      "farmer",
+      "writer"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t21",
+    "seed": 53021
+  },
+  {
+    "sentence": "The tiger that the chef that the actor called visited approached the deer.",
+    "correct_answer": "tiger",
+    "main_object": "deer",
+    "embedded_humans": [
+      "chef",
+      "actor"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t22",
+    "seed": 53022
+  },
+  {
+    "sentence": "The tiger that the writer that the coach called liked approached the dog.",
+    "correct_answer": "tiger",
+    "main_object": "dog",
+    "embedded_humans": [
+      "writer",
+      "coach"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t23",
+    "seed": 53023
+  },
+  {
+    "sentence": "The snake that the nurse that the woman called trusted followed the eagle.",
+    "correct_answer": "snake",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "nurse",
+      "woman"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t24",
+    "seed": 53024
+  },
+  {
+    "sentence": "The eagle that the artist that the actor trusted knew approached the fox.",
+    "correct_answer": "eagle",
+    "main_object": "fox",
+    "embedded_humans": [
+      "artist",
+      "actor"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d03_t25",
+    "seed": 53025
+  },
+  {
+    "sentence": "The rabbit that the girl that the teacher admired noticed watched the lion.",
+    "correct_answer": "rabbit",
+    "main_object": "lion",
+    "embedded_humans": [
+      "girl",
+      "teacher"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d03_t26",
+    "seed": 53026
+  },
+  {
+    "sentence": "The fox that the lawyer that the pilot liked helped watched the bird.",
+    "correct_answer": "fox",
+    "main_object": "bird",
+    "embedded_humans": [
+      "lawyer",
+      "pilot"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d03_t27",
+    "seed": 53027
+  },
+  {
+    "sentence": "The bird that the clerk that the coach trusted recognized followed the eagle.",
+    "correct_answer": "bird",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "clerk",
+      "coach"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d03_t28",
+    "seed": 53028
+  },
+  {
+    "sentence": "The cat that the judge that the clerk saw admired startled the dog.",
+    "correct_answer": "cat",
+    "main_object": "dog",
+    "embedded_humans": [
+      "judge",
+      "clerk"
+    ],
+    "depth": 3,
+    "n_nouns": 4,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d03_t29",
+    "seed": 53029
+  },
+  {
+    "sentence": "The snake that the coach that the sailor that the writer knew admired noticed followed the deer.",
+    "correct_answer": "snake",
+    "main_object": "deer",
+    "embedded_humans": [
+      "coach",
+      "sailor",
+      "writer"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t00",
+    "seed": 54000
+  },
+  {
+    "sentence": "The bird that the sailor that the girl that the teacher helped met recognized watched the bear.",
+    "correct_answer": "bird",
+    "main_object": "bear",
+    "embedded_humans": [
+      "sailor",
+      "girl",
+      "teacher"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d04_t01",
+    "seed": 54001
+  },
+  {
+    "sentence": "The owl that the man that the actor that the boy trusted remembered knew chased the tiger.",
+    "correct_answer": "owl",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "man",
+      "actor",
+      "boy"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d04_t02",
+    "seed": 54002
+  },
+  {
+    "sentence": "The horse that the mayor that the farmer that the girl called helped noticed approached the bird.",
+    "correct_answer": "horse",
+    "main_object": "bird",
+    "embedded_humans": [
+      "mayor",
+      "farmer",
+      "girl"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d04_t03",
+    "seed": 54003
+  },
+  {
+    "sentence": "The wolf that the chef that the nurse that the clerk visited liked met startled the horse.",
+    "correct_answer": "wolf",
+    "main_object": "horse",
+    "embedded_humans": [
+      "chef",
+      "nurse",
+      "clerk"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t04",
+    "seed": 54004
+  },
+  {
+    "sentence": "The tiger that the actor that the lawyer that the clerk visited met remembered chased the cat.",
+    "correct_answer": "tiger",
+    "main_object": "cat",
+    "embedded_humans": [
+      "actor",
+      "lawyer",
+      "clerk"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d04_t05",
+    "seed": 54005
+  },
+  {
+    "sentence": "The rabbit that the chef that the singer that the boy saw knew met startled the bird.",
+    "correct_answer": "rabbit",
+    "main_object": "bird",
+    "embedded_humans": [
+      "chef",
+      "singer",
+      "boy"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t06",
+    "seed": 54006
+  },
+  {
+    "sentence": "The snake that the artist that the lawyer that the woman recognized called saw watched the wolf.",
+    "correct_answer": "snake",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "artist",
+      "lawyer",
+      "woman"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d04_t07",
+    "seed": 54007
+  },
+  {
+    "sentence": "The bear that the sailor that the chef that the singer admired saw helped startled the mouse.",
+    "correct_answer": "bear",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "sailor",
+      "chef",
+      "singer"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t08",
+    "seed": 54008
+  },
+  {
+    "sentence": "The eagle that the teacher that the nurse that the coach liked admired remembered startled the deer.",
+    "correct_answer": "eagle",
+    "main_object": "deer",
+    "embedded_humans": [
+      "teacher",
+      "nurse",
+      "coach"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t09",
+    "seed": 54009
+  },
+  {
+    "sentence": "The bear that the chef that the clerk that the artist called saw visited watched the wolf.",
+    "correct_answer": "bear",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "chef",
+      "clerk",
+      "artist"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d04_t10",
+    "seed": 54010
+  },
+  {
+    "sentence": "The bear that the woman that the nurse that the teacher remembered visited called followed the lion.",
+    "correct_answer": "bear",
+    "main_object": "lion",
+    "embedded_humans": [
+      "woman",
+      "nurse",
+      "teacher"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t11",
+    "seed": 54011
+  },
+  {
+    "sentence": "The eagle that the clerk that the boy that the man knew saw helped approached the bird.",
+    "correct_answer": "eagle",
+    "main_object": "bird",
+    "embedded_humans": [
+      "clerk",
+      "boy",
+      "man"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d04_t12",
+    "seed": 54012
+  },
+  {
+    "sentence": "The lion that the clerk that the farmer that the writer visited knew helped startled the deer.",
+    "correct_answer": "lion",
+    "main_object": "deer",
+    "embedded_humans": [
+      "clerk",
+      "farmer",
+      "writer"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t13",
+    "seed": 54013
+  },
+  {
+    "sentence": "The eagle that the coach that the sailor that the farmer admired called trusted followed the lion.",
+    "correct_answer": "eagle",
+    "main_object": "lion",
+    "embedded_humans": [
+      "coach",
+      "sailor",
+      "farmer"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t14",
+    "seed": 54014
+  },
+  {
+    "sentence": "The fox that the farmer that the nurse that the clerk met trusted noticed approached the tiger.",
+    "correct_answer": "fox",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "farmer",
+      "nurse",
+      "clerk"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d04_t15",
+    "seed": 54015
+  },
+  {
+    "sentence": "The bird that the clerk that the nurse that the singer called saw knew chased the tiger.",
+    "correct_answer": "bird",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "clerk",
+      "nurse",
+      "singer"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d04_t16",
+    "seed": 54016
+  },
+  {
+    "sentence": "The dog that the actor that the artist that the girl remembered admired called chased the snake.",
+    "correct_answer": "dog",
+    "main_object": "snake",
+    "embedded_humans": [
+      "actor",
+      "artist",
+      "girl"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d04_t17",
+    "seed": 54017
+  },
+  {
+    "sentence": "The owl that the artist that the girl that the judge helped saw noticed followed the lion.",
+    "correct_answer": "owl",
+    "main_object": "lion",
+    "embedded_humans": [
+      "artist",
+      "girl",
+      "judge"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t18",
+    "seed": 54018
+  },
+  {
+    "sentence": "The rabbit that the pilot that the actor that the artist saw trusted admired watched the eagle.",
+    "correct_answer": "rabbit",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "pilot",
+      "actor",
+      "artist"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d04_t19",
+    "seed": 54019
+  },
+  {
+    "sentence": "The mouse that the coach that the nurse that the clerk called recognized saw chased the eagle.",
+    "correct_answer": "mouse",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "coach",
+      "nurse",
+      "clerk"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d04_t20",
+    "seed": 54020
+  },
+  {
+    "sentence": "The eagle that the girl that the coach that the teacher met trusted recognized followed the snake.",
+    "correct_answer": "eagle",
+    "main_object": "snake",
+    "embedded_humans": [
+      "girl",
+      "coach",
+      "teacher"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t21",
+    "seed": 54021
+  },
+  {
+    "sentence": "The owl that the nurse that the pilot that the man admired noticed trusted startled the bear.",
+    "correct_answer": "owl",
+    "main_object": "bear",
+    "embedded_humans": [
+      "nurse",
+      "pilot",
+      "man"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t22",
+    "seed": 54022
+  },
+  {
+    "sentence": "The owl that the coach that the singer that the woman called knew met approached the snake.",
+    "correct_answer": "owl",
+    "main_object": "snake",
+    "embedded_humans": [
+      "coach",
+      "singer",
+      "woman"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d04_t23",
+    "seed": 54023
+  },
+  {
+    "sentence": "The wolf that the actor that the farmer that the girl saw remembered visited approached the bear.",
+    "correct_answer": "wolf",
+    "main_object": "bear",
+    "embedded_humans": [
+      "actor",
+      "farmer",
+      "girl"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d04_t24",
+    "seed": 54024
+  },
+  {
+    "sentence": "The mouse that the girl that the lawyer that the boy remembered liked noticed startled the deer.",
+    "correct_answer": "mouse",
+    "main_object": "deer",
+    "embedded_humans": [
+      "girl",
+      "lawyer",
+      "boy"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d04_t25",
+    "seed": 54025
+  },
+  {
+    "sentence": "The owl that the girl that the clerk that the actor called saw noticed followed the tiger.",
+    "correct_answer": "owl",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "girl",
+      "clerk",
+      "actor"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t26",
+    "seed": 54026
+  },
+  {
+    "sentence": "The fox that the man that the artist that the nurse liked met recognized followed the tiger.",
+    "correct_answer": "fox",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "man",
+      "artist",
+      "nurse"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d04_t27",
+    "seed": 54027
+  },
+  {
+    "sentence": "The owl that the judge that the actor that the teacher remembered helped admired chased the lion.",
+    "correct_answer": "owl",
+    "main_object": "lion",
+    "embedded_humans": [
+      "judge",
+      "actor",
+      "teacher"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d04_t28",
+    "seed": 54028
+  },
+  {
+    "sentence": "The fox that the actor that the farmer that the judge helped remembered recognized approached the bear.",
+    "correct_answer": "fox",
+    "main_object": "bear",
+    "embedded_humans": [
+      "actor",
+      "farmer",
+      "judge"
+    ],
+    "depth": 4,
+    "n_nouns": 5,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d04_t29",
+    "seed": 54029
+  },
+  {
+    "sentence": "The rabbit that the mayor that the artist that the girl that the judge noticed liked called admired followed the owl.",
+    "correct_answer": "rabbit",
+    "main_object": "owl",
+    "embedded_humans": [
+      "mayor",
+      "artist",
+      "girl",
+      "judge"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t00",
+    "seed": 55000
+  },
+  {
+    "sentence": "The rabbit that the farmer that the mayor that the artist that the chef remembered knew visited helped watched the mouse.",
+    "correct_answer": "rabbit",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "farmer",
+      "mayor",
+      "artist",
+      "chef"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d05_t01",
+    "seed": 55001
+  },
+  {
+    "sentence": "The cat that the clerk that the artist that the singer that the doctor recognized visited trusted admired followed the lion.",
+    "correct_answer": "cat",
+    "main_object": "lion",
+    "embedded_humans": [
+      "clerk",
+      "artist",
+      "singer",
+      "doctor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t02",
+    "seed": 55002
+  },
+  {
+    "sentence": "The horse that the clerk that the teacher that the singer that the writer remembered liked noticed visited chased the rabbit.",
+    "correct_answer": "horse",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "clerk",
+      "teacher",
+      "singer",
+      "writer"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d05_t03",
+    "seed": 55003
+  },
+  {
+    "sentence": "The deer that the artist that the lawyer that the coach that the nurse called visited knew recognized startled the mouse.",
+    "correct_answer": "deer",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "artist",
+      "lawyer",
+      "coach",
+      "nurse"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t04",
+    "seed": 55004
+  },
+  {
+    "sentence": "The wolf that the clerk that the nurse that the farmer that the actor knew met saw trusted approached the eagle.",
+    "correct_answer": "wolf",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "clerk",
+      "nurse",
+      "farmer",
+      "actor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d05_t05",
+    "seed": 55005
+  },
+  {
+    "sentence": "The horse that the singer that the boy that the farmer that the clerk met helped saw trusted chased the rabbit.",
+    "correct_answer": "horse",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "singer",
+      "boy",
+      "farmer",
+      "clerk"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d05_t06",
+    "seed": 55006
+  },
+  {
+    "sentence": "The rabbit that the man that the actor that the girl that the writer remembered met admired helped startled the cat.",
+    "correct_answer": "rabbit",
+    "main_object": "cat",
+    "embedded_humans": [
+      "man",
+      "actor",
+      "girl",
+      "writer"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t07",
+    "seed": 55007
+  },
+  {
+    "sentence": "The snake that the doctor that the pilot that the teacher that the singer admired called helped met followed the wolf.",
+    "correct_answer": "snake",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "doctor",
+      "pilot",
+      "teacher",
+      "singer"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t08",
+    "seed": 55008
+  },
+  {
+    "sentence": "The cat that the artist that the teacher that the chef that the girl saw helped noticed remembered approached the eagle.",
+    "correct_answer": "cat",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "artist",
+      "teacher",
+      "chef",
+      "girl"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d05_t09",
+    "seed": 55009
+  },
+  {
+    "sentence": "The bear that the man that the clerk that the boy that the mayor recognized trusted called visited startled the lion.",
+    "correct_answer": "bear",
+    "main_object": "lion",
+    "embedded_humans": [
+      "man",
+      "clerk",
+      "boy",
+      "mayor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t10",
+    "seed": 55010
+  },
+  {
+    "sentence": "The rabbit that the doctor that the actor that the pilot that the judge remembered saw knew met startled the bird.",
+    "correct_answer": "rabbit",
+    "main_object": "bird",
+    "embedded_humans": [
+      "doctor",
+      "actor",
+      "pilot",
+      "judge"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t11",
+    "seed": 55011
+  },
+  {
+    "sentence": "The horse that the woman that the nurse that the girl that the coach met noticed recognized helped startled the snake.",
+    "correct_answer": "horse",
+    "main_object": "snake",
+    "embedded_humans": [
+      "woman",
+      "nurse",
+      "girl",
+      "coach"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t12",
+    "seed": 55012
+  },
+  {
+    "sentence": "The snake that the clerk that the sailor that the coach that the nurse called saw recognized helped chased the cat.",
+    "correct_answer": "snake",
+    "main_object": "cat",
+    "embedded_humans": [
+      "clerk",
+      "sailor",
+      "coach",
+      "nurse"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d05_t13",
+    "seed": 55013
+  },
+  {
+    "sentence": "The wolf that the writer that the artist that the actor that the boy recognized visited called remembered chased the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [
+      "writer",
+      "artist",
+      "actor",
+      "boy"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d05_t14",
+    "seed": 55014
+  },
+  {
+    "sentence": "The snake that the actor that the writer that the farmer that the clerk remembered called helped liked followed the rabbit.",
+    "correct_answer": "snake",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "actor",
+      "writer",
+      "farmer",
+      "clerk"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t15",
+    "seed": 55015
+  },
+  {
+    "sentence": "The lion that the coach that the nurse that the clerk that the teacher admired knew visited trusted watched the bear.",
+    "correct_answer": "lion",
+    "main_object": "bear",
+    "embedded_humans": [
+      "coach",
+      "nurse",
+      "clerk",
+      "teacher"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d05_t16",
+    "seed": 55016
+  },
+  {
+    "sentence": "The wolf that the actor that the pilot that the chef that the mayor noticed met helped liked startled the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [
+      "actor",
+      "pilot",
+      "chef",
+      "mayor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t17",
+    "seed": 55017
+  },
+  {
+    "sentence": "The wolf that the man that the singer that the actor that the nurse liked noticed admired knew chased the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [
+      "man",
+      "singer",
+      "actor",
+      "nurse"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d05_t18",
+    "seed": 55018
+  },
+  {
+    "sentence": "The bird that the pilot that the boy that the lawyer that the teacher knew visited noticed called followed the wolf.",
+    "correct_answer": "bird",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "pilot",
+      "boy",
+      "lawyer",
+      "teacher"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t19",
+    "seed": 55019
+  },
+  {
+    "sentence": "The tiger that the coach that the pilot that the doctor that the mayor liked met remembered visited watched the mouse.",
+    "correct_answer": "tiger",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "coach",
+      "pilot",
+      "doctor",
+      "mayor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d05_t20",
+    "seed": 55020
+  },
+  {
+    "sentence": "The eagle that the mayor that the artist that the pilot that the boy met called trusted helped approached the horse.",
+    "correct_answer": "eagle",
+    "main_object": "horse",
+    "embedded_humans": [
+      "mayor",
+      "artist",
+      "pilot",
+      "boy"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d05_t21",
+    "seed": 55021
+  },
+  {
+    "sentence": "The mouse that the chef that the teacher that the farmer that the doctor trusted liked saw met approached the bird.",
+    "correct_answer": "mouse",
+    "main_object": "bird",
+    "embedded_humans": [
+      "chef",
+      "teacher",
+      "farmer",
+      "doctor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d05_t22",
+    "seed": 55022
+  },
+  {
+    "sentence": "The snake that the girl that the teacher that the boy that the pilot met called knew noticed followed the tiger.",
+    "correct_answer": "snake",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "girl",
+      "teacher",
+      "boy",
+      "pilot"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t23",
+    "seed": 55023
+  },
+  {
+    "sentence": "The horse that the nurse that the coach that the girl that the judge knew liked noticed remembered watched the dog.",
+    "correct_answer": "horse",
+    "main_object": "dog",
+    "embedded_humans": [
+      "nurse",
+      "coach",
+      "girl",
+      "judge"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d05_t24",
+    "seed": 55024
+  },
+  {
+    "sentence": "The cat that the actor that the judge that the farmer that the clerk noticed admired met remembered startled the horse.",
+    "correct_answer": "cat",
+    "main_object": "horse",
+    "embedded_humans": [
+      "actor",
+      "judge",
+      "farmer",
+      "clerk"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d05_t25",
+    "seed": 55025
+  },
+  {
+    "sentence": "The mouse that the nurse that the pilot that the girl that the doctor saw knew visited helped chased the cat.",
+    "correct_answer": "mouse",
+    "main_object": "cat",
+    "embedded_humans": [
+      "nurse",
+      "pilot",
+      "girl",
+      "doctor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d05_t26",
+    "seed": 55026
+  },
+  {
+    "sentence": "The wolf that the mayor that the chef that the actor that the farmer visited met helped called followed the eagle.",
+    "correct_answer": "wolf",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "mayor",
+      "chef",
+      "actor",
+      "farmer"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t27",
+    "seed": 55027
+  },
+  {
+    "sentence": "The rabbit that the doctor that the clerk that the actor that the lawyer visited helped liked admired watched the wolf.",
+    "correct_answer": "rabbit",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "doctor",
+      "clerk",
+      "actor",
+      "lawyer"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d05_t28",
+    "seed": 55028
+  },
+  {
+    "sentence": "The horse that the woman that the pilot that the teacher that the sailor visited remembered called helped followed the cat.",
+    "correct_answer": "horse",
+    "main_object": "cat",
+    "embedded_humans": [
+      "woman",
+      "pilot",
+      "teacher",
+      "sailor"
+    ],
+    "depth": 5,
+    "n_nouns": 6,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d05_t29",
+    "seed": 55029
+  },
+  {
+    "sentence": "The bird that the lawyer that the mayor that the boy that the woman that the girl remembered liked knew recognized trusted followed the bear.",
+    "correct_answer": "bird",
+    "main_object": "bear",
+    "embedded_humans": [
+      "lawyer",
+      "mayor",
+      "boy",
+      "woman",
+      "girl"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d06_t00",
+    "seed": 56000
+  },
+  {
+    "sentence": "The bird that the clerk that the doctor that the singer that the judge that the farmer admired called saw recognized trusted watched the snake.",
+    "correct_answer": "bird",
+    "main_object": "snake",
+    "embedded_humans": [
+      "clerk",
+      "doctor",
+      "singer",
+      "judge",
+      "farmer"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t01",
+    "seed": 56001
+  },
+  {
+    "sentence": "The rabbit that the sailor that the clerk that the farmer that the girl that the chef admired visited liked helped recognized chased the bear.",
+    "correct_answer": "rabbit",
+    "main_object": "bear",
+    "embedded_humans": [
+      "sailor",
+      "clerk",
+      "farmer",
+      "girl",
+      "chef"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d06_t02",
+    "seed": 56002
+  },
+  {
+    "sentence": "The wolf that the pilot that the coach that the mayor that the girl that the writer met saw recognized helped liked watched the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [
+      "pilot",
+      "coach",
+      "mayor",
+      "girl",
+      "writer"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t03",
+    "seed": 56003
+  },
+  {
+    "sentence": "The snake that the judge that the chef that the teacher that the girl that the man admired visited saw recognized liked chased the horse.",
+    "correct_answer": "snake",
+    "main_object": "horse",
+    "embedded_humans": [
+      "judge",
+      "chef",
+      "teacher",
+      "girl",
+      "man"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d06_t04",
+    "seed": 56004
+  },
+  {
+    "sentence": "The eagle that the judge that the nurse that the girl that the artist that the woman called noticed trusted remembered saw chased the fox.",
+    "correct_answer": "eagle",
+    "main_object": "fox",
+    "embedded_humans": [
+      "judge",
+      "nurse",
+      "girl",
+      "artist",
+      "woman"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d06_t05",
+    "seed": 56005
+  },
+  {
+    "sentence": "The fox that the farmer that the boy that the sailor that the woman that the nurse liked trusted visited knew met chased the mouse.",
+    "correct_answer": "fox",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "farmer",
+      "boy",
+      "sailor",
+      "woman",
+      "nurse"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d06_t06",
+    "seed": 56006
+  },
+  {
+    "sentence": "The wolf that the lawyer that the doctor that the woman that the writer that the pilot helped visited noticed called admired watched the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [
+      "lawyer",
+      "doctor",
+      "woman",
+      "writer",
+      "pilot"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t07",
+    "seed": 56007
+  },
+  {
+    "sentence": "The snake that the artist that the boy that the doctor that the writer that the actor called saw knew helped recognized startled the eagle.",
+    "correct_answer": "snake",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "artist",
+      "boy",
+      "doctor",
+      "writer",
+      "actor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d06_t08",
+    "seed": 56008
+  },
+  {
+    "sentence": "The bear that the artist that the writer that the girl that the pilot that the clerk helped called recognized noticed admired followed the rabbit.",
+    "correct_answer": "bear",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "artist",
+      "writer",
+      "girl",
+      "pilot",
+      "clerk"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d06_t09",
+    "seed": 56009
+  },
+  {
+    "sentence": "The horse that the clerk that the coach that the woman that the judge that the doctor helped remembered admired called met approached the fox.",
+    "correct_answer": "horse",
+    "main_object": "fox",
+    "embedded_humans": [
+      "clerk",
+      "coach",
+      "woman",
+      "judge",
+      "doctor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d06_t10",
+    "seed": 56010
+  },
+  {
+    "sentence": "The snake that the sailor that the woman that the boy that the girl that the artist saw met called remembered visited watched the rabbit.",
+    "correct_answer": "snake",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "sailor",
+      "woman",
+      "boy",
+      "girl",
+      "artist"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t11",
+    "seed": 56011
+  },
+  {
+    "sentence": "The tiger that the singer that the artist that the teacher that the coach that the judge knew helped saw admired trusted followed the deer.",
+    "correct_answer": "tiger",
+    "main_object": "deer",
+    "embedded_humans": [
+      "singer",
+      "artist",
+      "teacher",
+      "coach",
+      "judge"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d06_t12",
+    "seed": 56012
+  },
+  {
+    "sentence": "The bear that the coach that the woman that the farmer that the girl that the actor visited admired met saw helped watched the rabbit.",
+    "correct_answer": "bear",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "coach",
+      "woman",
+      "farmer",
+      "girl",
+      "actor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t13",
+    "seed": 56013
+  },
+  {
+    "sentence": "The bird that the boy that the woman that the judge that the doctor that the sailor helped met called liked visited chased the snake.",
+    "correct_answer": "bird",
+    "main_object": "snake",
+    "embedded_humans": [
+      "boy",
+      "woman",
+      "judge",
+      "doctor",
+      "sailor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d06_t14",
+    "seed": 56014
+  },
+  {
+    "sentence": "The mouse that the writer that the pilot that the nurse that the chef that the coach knew trusted saw met visited watched the fox.",
+    "correct_answer": "mouse",
+    "main_object": "fox",
+    "embedded_humans": [
+      "writer",
+      "pilot",
+      "nurse",
+      "chef",
+      "coach"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t15",
+    "seed": 56015
+  },
+  {
+    "sentence": "The bird that the clerk that the mayor that the sailor that the writer that the lawyer noticed met recognized trusted admired startled the deer.",
+    "correct_answer": "bird",
+    "main_object": "deer",
+    "embedded_humans": [
+      "clerk",
+      "mayor",
+      "sailor",
+      "writer",
+      "lawyer"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d06_t16",
+    "seed": 56016
+  },
+  {
+    "sentence": "The fox that the singer that the artist that the sailor that the coach that the pilot saw remembered admired helped met approached the owl.",
+    "correct_answer": "fox",
+    "main_object": "owl",
+    "embedded_humans": [
+      "singer",
+      "artist",
+      "sailor",
+      "coach",
+      "pilot"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d06_t17",
+    "seed": 56017
+  },
+  {
+    "sentence": "The deer that the farmer that the clerk that the sailor that the judge that the woman remembered recognized saw met trusted followed the wolf.",
+    "correct_answer": "deer",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "farmer",
+      "clerk",
+      "sailor",
+      "judge",
+      "woman"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d06_t18",
+    "seed": 56018
+  },
+  {
+    "sentence": "The mouse that the writer that the teacher that the lawyer that the actor that the boy called remembered trusted recognized knew watched the wolf.",
+    "correct_answer": "mouse",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "writer",
+      "teacher",
+      "lawyer",
+      "actor",
+      "boy"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t19",
+    "seed": 56019
+  },
+  {
+    "sentence": "The rabbit that the clerk that the man that the boy that the farmer that the actor remembered admired knew helped visited startled the cat.",
+    "correct_answer": "rabbit",
+    "main_object": "cat",
+    "embedded_humans": [
+      "clerk",
+      "man",
+      "boy",
+      "farmer",
+      "actor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d06_t20",
+    "seed": 56020
+  },
+  {
+    "sentence": "The tiger that the writer that the coach that the woman that the girl that the nurse remembered liked called noticed met watched the mouse.",
+    "correct_answer": "tiger",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "writer",
+      "coach",
+      "woman",
+      "girl",
+      "nurse"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t21",
+    "seed": 56021
+  },
+  {
+    "sentence": "The dog that the judge that the mayor that the boy that the man that the coach remembered admired liked trusted knew followed the eagle.",
+    "correct_answer": "dog",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "judge",
+      "mayor",
+      "boy",
+      "man",
+      "coach"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d06_t22",
+    "seed": 56022
+  },
+  {
+    "sentence": "The horse that the artist that the singer that the actor that the mayor that the pilot trusted visited knew met helped approached the deer.",
+    "correct_answer": "horse",
+    "main_object": "deer",
+    "embedded_humans": [
+      "artist",
+      "singer",
+      "actor",
+      "mayor",
+      "pilot"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d06_t23",
+    "seed": 56023
+  },
+  {
+    "sentence": "The eagle that the farmer that the actor that the coach that the chef that the nurse helped recognized saw admired called watched the bear.",
+    "correct_answer": "eagle",
+    "main_object": "bear",
+    "embedded_humans": [
+      "farmer",
+      "actor",
+      "coach",
+      "chef",
+      "nurse"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t24",
+    "seed": 56024
+  },
+  {
+    "sentence": "The fox that the mayor that the boy that the woman that the farmer that the actor visited met liked knew called watched the wolf.",
+    "correct_answer": "fox",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "mayor",
+      "boy",
+      "woman",
+      "farmer",
+      "actor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t25",
+    "seed": 56025
+  },
+  {
+    "sentence": "The owl that the artist that the singer that the woman that the teacher that the girl trusted noticed admired knew saw startled the snake.",
+    "correct_answer": "owl",
+    "main_object": "snake",
+    "embedded_humans": [
+      "artist",
+      "singer",
+      "woman",
+      "teacher",
+      "girl"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d06_t26",
+    "seed": 56026
+  },
+  {
+    "sentence": "The owl that the actor that the farmer that the lawyer that the sailor that the boy visited admired met liked recognized chased the dog.",
+    "correct_answer": "owl",
+    "main_object": "dog",
+    "embedded_humans": [
+      "actor",
+      "farmer",
+      "lawyer",
+      "sailor",
+      "boy"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d06_t27",
+    "seed": 56027
+  },
+  {
+    "sentence": "The dog that the woman that the nurse that the girl that the doctor that the judge recognized remembered visited liked called watched the lion.",
+    "correct_answer": "dog",
+    "main_object": "lion",
+    "embedded_humans": [
+      "woman",
+      "nurse",
+      "girl",
+      "doctor",
+      "judge"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d06_t28",
+    "seed": 56028
+  },
+  {
+    "sentence": "The lion that the lawyer that the farmer that the chef that the sailor that the doctor remembered called knew visited helped approached the bear.",
+    "correct_answer": "lion",
+    "main_object": "bear",
+    "embedded_humans": [
+      "lawyer",
+      "farmer",
+      "chef",
+      "sailor",
+      "doctor"
+    ],
+    "depth": 6,
+    "n_nouns": 7,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d06_t29",
+    "seed": 56029
+  },
+  {
+    "sentence": "The rabbit that the woman that the writer that the clerk that the singer that the pilot that the chef saw noticed liked recognized remembered met watched the cat.",
+    "correct_answer": "rabbit",
+    "main_object": "cat",
+    "embedded_humans": [
+      "woman",
+      "writer",
+      "clerk",
+      "singer",
+      "pilot",
+      "chef"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d07_t00",
+    "seed": 57000
+  },
+  {
+    "sentence": "The tiger that the boy that the doctor that the sailor that the coach that the pilot that the singer met knew liked noticed remembered recognized approached the mouse.",
+    "correct_answer": "tiger",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "boy",
+      "doctor",
+      "sailor",
+      "coach",
+      "pilot",
+      "singer"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t01",
+    "seed": 57001
+  },
+  {
+    "sentence": "The wolf that the writer that the sailor that the judge that the nurse that the boy that the coach recognized trusted visited liked admired called followed the owl.",
+    "correct_answer": "wolf",
+    "main_object": "owl",
+    "embedded_humans": [
+      "writer",
+      "sailor",
+      "judge",
+      "nurse",
+      "boy",
+      "coach"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d07_t02",
+    "seed": 57002
+  },
+  {
+    "sentence": "The deer that the singer that the nurse that the woman that the sailor that the teacher that the mayor noticed trusted recognized met remembered knew watched the rabbit.",
+    "correct_answer": "deer",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "singer",
+      "nurse",
+      "woman",
+      "sailor",
+      "teacher",
+      "mayor"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d07_t03",
+    "seed": 57003
+  },
+  {
+    "sentence": "The tiger that the man that the lawyer that the pilot that the boy that the sailor that the artist helped noticed met admired knew recognized startled the dog.",
+    "correct_answer": "tiger",
+    "main_object": "dog",
+    "embedded_humans": [
+      "man",
+      "lawyer",
+      "pilot",
+      "boy",
+      "sailor",
+      "artist"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t04",
+    "seed": 57004
+  },
+  {
+    "sentence": "The wolf that the boy that the coach that the clerk that the actor that the sailor that the nurse liked saw remembered admired helped visited startled the tiger.",
+    "correct_answer": "wolf",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "boy",
+      "coach",
+      "clerk",
+      "actor",
+      "sailor",
+      "nurse"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t05",
+    "seed": 57005
+  },
+  {
+    "sentence": "The cat that the nurse that the girl that the chef that the coach that the pilot that the teacher liked recognized saw visited trusted noticed followed the horse.",
+    "correct_answer": "cat",
+    "main_object": "horse",
+    "embedded_humans": [
+      "nurse",
+      "girl",
+      "chef",
+      "coach",
+      "pilot",
+      "teacher"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d07_t06",
+    "seed": 57006
+  },
+  {
+    "sentence": "The tiger that the singer that the boy that the pilot that the chef that the mayor that the artist visited helped admired noticed trusted remembered chased the fox.",
+    "correct_answer": "tiger",
+    "main_object": "fox",
+    "embedded_humans": [
+      "singer",
+      "boy",
+      "pilot",
+      "chef",
+      "mayor",
+      "artist"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d07_t07",
+    "seed": 57007
+  },
+  {
+    "sentence": "The fox that the pilot that the clerk that the actor that the lawyer that the writer that the doctor admired liked knew helped noticed recognized approached the snake.",
+    "correct_answer": "fox",
+    "main_object": "snake",
+    "embedded_humans": [
+      "pilot",
+      "clerk",
+      "actor",
+      "lawyer",
+      "writer",
+      "doctor"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t08",
+    "seed": 57008
+  },
+  {
+    "sentence": "The snake that the clerk that the woman that the doctor that the man that the lawyer that the writer remembered visited knew helped trusted liked chased the mouse.",
+    "correct_answer": "snake",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "clerk",
+      "woman",
+      "doctor",
+      "man",
+      "lawyer",
+      "writer"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d07_t09",
+    "seed": 57009
+  },
+  {
+    "sentence": "The bird that the singer that the writer that the actor that the mayor that the pilot that the clerk trusted visited knew called remembered helped startled the deer.",
+    "correct_answer": "bird",
+    "main_object": "deer",
+    "embedded_humans": [
+      "singer",
+      "writer",
+      "actor",
+      "mayor",
+      "pilot",
+      "clerk"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t10",
+    "seed": 57010
+  },
+  {
+    "sentence": "The lion that the lawyer that the sailor that the pilot that the judge that the boy that the doctor recognized trusted remembered liked admired knew approached the snake.",
+    "correct_answer": "lion",
+    "main_object": "snake",
+    "embedded_humans": [
+      "lawyer",
+      "sailor",
+      "pilot",
+      "judge",
+      "boy",
+      "doctor"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t11",
+    "seed": 57011
+  },
+  {
+    "sentence": "The lion that the doctor that the nurse that the woman that the clerk that the boy that the artist remembered met noticed helped visited admired watched the wolf.",
+    "correct_answer": "lion",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "doctor",
+      "nurse",
+      "woman",
+      "clerk",
+      "boy",
+      "artist"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d07_t12",
+    "seed": 57012
+  },
+  {
+    "sentence": "The owl that the man that the chef that the pilot that the farmer that the singer that the writer called recognized knew remembered saw admired chased the wolf.",
+    "correct_answer": "owl",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "man",
+      "chef",
+      "pilot",
+      "farmer",
+      "singer",
+      "writer"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d07_t13",
+    "seed": 57013
+  },
+  {
+    "sentence": "The horse that the boy that the doctor that the mayor that the artist that the lawyer that the nurse called knew admired visited met liked startled the eagle.",
+    "correct_answer": "horse",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "boy",
+      "doctor",
+      "mayor",
+      "artist",
+      "lawyer",
+      "nurse"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t14",
+    "seed": 57014
+  },
+  {
+    "sentence": "The bird that the doctor that the artist that the man that the mayor that the girl that the boy liked trusted helped admired visited noticed startled the horse.",
+    "correct_answer": "bird",
+    "main_object": "horse",
+    "embedded_humans": [
+      "doctor",
+      "artist",
+      "man",
+      "mayor",
+      "girl",
+      "boy"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t15",
+    "seed": 57015
+  },
+  {
+    "sentence": "The lion that the doctor that the writer that the coach that the mayor that the boy that the sailor liked trusted remembered recognized admired visited startled the fox.",
+    "correct_answer": "lion",
+    "main_object": "fox",
+    "embedded_humans": [
+      "doctor",
+      "writer",
+      "coach",
+      "mayor",
+      "boy",
+      "sailor"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t16",
+    "seed": 57016
+  },
+  {
+    "sentence": "The wolf that the mayor that the boy that the woman that the chef that the pilot that the clerk trusted liked helped met saw visited startled the snake.",
+    "correct_answer": "wolf",
+    "main_object": "snake",
+    "embedded_humans": [
+      "mayor",
+      "boy",
+      "woman",
+      "chef",
+      "pilot",
+      "clerk"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t17",
+    "seed": 57017
+  },
+  {
+    "sentence": "The bird that the sailor that the actor that the woman that the boy that the farmer that the chef admired liked called knew helped visited startled the owl.",
+    "correct_answer": "bird",
+    "main_object": "owl",
+    "embedded_humans": [
+      "sailor",
+      "actor",
+      "woman",
+      "boy",
+      "farmer",
+      "chef"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t18",
+    "seed": 57018
+  },
+  {
+    "sentence": "The eagle that the clerk that the mayor that the doctor that the chef that the artist that the teacher trusted admired saw helped knew recognized startled the mouse.",
+    "correct_answer": "eagle",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "clerk",
+      "mayor",
+      "doctor",
+      "chef",
+      "artist",
+      "teacher"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t19",
+    "seed": 57019
+  },
+  {
+    "sentence": "The dog that the farmer that the judge that the pilot that the girl that the actor that the boy saw met recognized liked trusted helped approached the cat.",
+    "correct_answer": "dog",
+    "main_object": "cat",
+    "embedded_humans": [
+      "farmer",
+      "judge",
+      "pilot",
+      "girl",
+      "actor",
+      "boy"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t20",
+    "seed": 57020
+  },
+  {
+    "sentence": "The rabbit that the singer that the teacher that the actor that the nurse that the man that the coach admired helped liked met called noticed watched the dog.",
+    "correct_answer": "rabbit",
+    "main_object": "dog",
+    "embedded_humans": [
+      "singer",
+      "teacher",
+      "actor",
+      "nurse",
+      "man",
+      "coach"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d07_t21",
+    "seed": 57021
+  },
+  {
+    "sentence": "The cat that the girl that the boy that the coach that the teacher that the clerk that the doctor helped admired saw noticed met remembered watched the fox.",
+    "correct_answer": "cat",
+    "main_object": "fox",
+    "embedded_humans": [
+      "girl",
+      "boy",
+      "coach",
+      "teacher",
+      "clerk",
+      "doctor"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d07_t22",
+    "seed": 57022
+  },
+  {
+    "sentence": "The tiger that the singer that the artist that the writer that the doctor that the woman that the sailor remembered visited recognized noticed helped admired approached the cat.",
+    "correct_answer": "tiger",
+    "main_object": "cat",
+    "embedded_humans": [
+      "singer",
+      "artist",
+      "writer",
+      "doctor",
+      "woman",
+      "sailor"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t23",
+    "seed": 57023
+  },
+  {
+    "sentence": "The snake that the woman that the pilot that the coach that the man that the doctor that the writer knew remembered trusted called visited met watched the wolf.",
+    "correct_answer": "snake",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "woman",
+      "pilot",
+      "coach",
+      "man",
+      "doctor",
+      "writer"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d07_t24",
+    "seed": 57024
+  },
+  {
+    "sentence": "The cat that the man that the actor that the mayor that the nurse that the clerk that the lawyer met noticed saw liked recognized called followed the wolf.",
+    "correct_answer": "cat",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "man",
+      "actor",
+      "mayor",
+      "nurse",
+      "clerk",
+      "lawyer"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d07_t25",
+    "seed": 57025
+  },
+  {
+    "sentence": "The rabbit that the girl that the mayor that the artist that the farmer that the chef that the boy knew noticed helped called remembered saw approached the fox.",
+    "correct_answer": "rabbit",
+    "main_object": "fox",
+    "embedded_humans": [
+      "girl",
+      "mayor",
+      "artist",
+      "farmer",
+      "chef",
+      "boy"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t26",
+    "seed": 57026
+  },
+  {
+    "sentence": "The cat that the artist that the judge that the chef that the pilot that the clerk that the lawyer called visited trusted noticed recognized saw followed the snake.",
+    "correct_answer": "cat",
+    "main_object": "snake",
+    "embedded_humans": [
+      "artist",
+      "judge",
+      "chef",
+      "pilot",
+      "clerk",
+      "lawyer"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d07_t27",
+    "seed": 57027
+  },
+  {
+    "sentence": "The wolf that the boy that the farmer that the judge that the sailor that the teacher that the artist trusted visited remembered called recognized admired startled the bird.",
+    "correct_answer": "wolf",
+    "main_object": "bird",
+    "embedded_humans": [
+      "boy",
+      "farmer",
+      "judge",
+      "sailor",
+      "teacher",
+      "artist"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d07_t28",
+    "seed": 57028
+  },
+  {
+    "sentence": "The bird that the woman that the teacher that the clerk that the chef that the boy that the artist trusted called knew recognized admired noticed approached the deer.",
+    "correct_answer": "bird",
+    "main_object": "deer",
+    "embedded_humans": [
+      "woman",
+      "teacher",
+      "clerk",
+      "chef",
+      "boy",
+      "artist"
+    ],
+    "depth": 7,
+    "n_nouns": 8,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d07_t29",
+    "seed": 57029
+  },
+  {
+    "sentence": "The owl that the girl that the pilot that the woman that the mayor that the clerk that the teacher that the sailor called met liked saw visited noticed remembered followed the bird.",
+    "correct_answer": "owl",
+    "main_object": "bird",
+    "embedded_humans": [
+      "girl",
+      "pilot",
+      "woman",
+      "mayor",
+      "clerk",
+      "teacher",
+      "sailor"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d08_t00",
+    "seed": 58000
+  },
+  {
+    "sentence": "The mouse that the lawyer that the judge that the actor that the teacher that the nurse that the chef that the girl met knew visited saw noticed liked admired followed the tiger.",
+    "correct_answer": "mouse",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "lawyer",
+      "judge",
+      "actor",
+      "teacher",
+      "nurse",
+      "chef",
+      "girl"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d08_t01",
+    "seed": 58001
+  },
+  {
+    "sentence": "The fox that the sailor that the mayor that the pilot that the nurse that the clerk that the boy that the doctor met called saw admired helped recognized visited watched the horse.",
+    "correct_answer": "fox",
+    "main_object": "horse",
+    "embedded_humans": [
+      "sailor",
+      "mayor",
+      "pilot",
+      "nurse",
+      "clerk",
+      "boy",
+      "doctor"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d08_t02",
+    "seed": 58002
+  },
+  {
+    "sentence": "The eagle that the mayor that the artist that the actor that the woman that the coach that the judge that the nurse knew noticed called met recognized helped admired chased the fox.",
+    "correct_answer": "eagle",
+    "main_object": "fox",
+    "embedded_humans": [
+      "mayor",
+      "artist",
+      "actor",
+      "woman",
+      "coach",
+      "judge",
+      "nurse"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d08_t03",
+    "seed": 58003
+  },
+  {
+    "sentence": "The dog that the woman that the mayor that the boy that the man that the artist that the sailor that the actor helped recognized admired liked saw called remembered watched the mouse.",
+    "correct_answer": "dog",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "woman",
+      "mayor",
+      "boy",
+      "man",
+      "artist",
+      "sailor",
+      "actor"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d08_t04",
+    "seed": 58004
+  },
+  {
+    "sentence": "The mouse that the woman that the writer that the nurse that the lawyer that the boy that the judge that the girl saw visited liked recognized helped trusted called approached the tiger.",
+    "correct_answer": "mouse",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "woman",
+      "writer",
+      "nurse",
+      "lawyer",
+      "boy",
+      "judge",
+      "girl"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t05",
+    "seed": 58005
+  },
+  {
+    "sentence": "The deer that the girl that the coach that the woman that the boy that the sailor that the mayor that the writer recognized liked visited helped called trusted noticed startled the snake.",
+    "correct_answer": "deer",
+    "main_object": "snake",
+    "embedded_humans": [
+      "girl",
+      "coach",
+      "woman",
+      "boy",
+      "sailor",
+      "mayor",
+      "writer"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t06",
+    "seed": 58006
+  },
+  {
+    "sentence": "The tiger that the farmer that the lawyer that the clerk that the actor that the sailor that the chef that the girl visited admired recognized noticed met liked knew followed the dog.",
+    "correct_answer": "tiger",
+    "main_object": "dog",
+    "embedded_humans": [
+      "farmer",
+      "lawyer",
+      "clerk",
+      "actor",
+      "sailor",
+      "chef",
+      "girl"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d08_t07",
+    "seed": 58007
+  },
+  {
+    "sentence": "The fox that the clerk that the mayor that the writer that the boy that the farmer that the actor that the teacher admired recognized noticed saw called helped knew watched the dog.",
+    "correct_answer": "fox",
+    "main_object": "dog",
+    "embedded_humans": [
+      "clerk",
+      "mayor",
+      "writer",
+      "boy",
+      "farmer",
+      "actor",
+      "teacher"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d08_t08",
+    "seed": 58008
+  },
+  {
+    "sentence": "The dog that the writer that the pilot that the nurse that the lawyer that the woman that the actor that the singer visited met admired helped knew trusted saw approached the deer.",
+    "correct_answer": "dog",
+    "main_object": "deer",
+    "embedded_humans": [
+      "writer",
+      "pilot",
+      "nurse",
+      "lawyer",
+      "woman",
+      "actor",
+      "singer"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t09",
+    "seed": 58009
+  },
+  {
+    "sentence": "The bear that the girl that the clerk that the singer that the boy that the writer that the lawyer that the teacher knew helped called admired met visited recognized followed the deer.",
+    "correct_answer": "bear",
+    "main_object": "deer",
+    "embedded_humans": [
+      "girl",
+      "clerk",
+      "singer",
+      "boy",
+      "writer",
+      "lawyer",
+      "teacher"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d08_t10",
+    "seed": 58010
+  },
+  {
+    "sentence": "The mouse that the chef that the pilot that the doctor that the mayor that the artist that the farmer that the clerk liked knew noticed met called remembered visited chased the rabbit.",
+    "correct_answer": "mouse",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "chef",
+      "pilot",
+      "doctor",
+      "mayor",
+      "artist",
+      "farmer",
+      "clerk"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d08_t11",
+    "seed": 58011
+  },
+  {
+    "sentence": "The wolf that the nurse that the woman that the actor that the lawyer that the singer that the artist that the chef met called trusted noticed remembered saw knew approached the deer.",
+    "correct_answer": "wolf",
+    "main_object": "deer",
+    "embedded_humans": [
+      "nurse",
+      "woman",
+      "actor",
+      "lawyer",
+      "singer",
+      "artist",
+      "chef"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t12",
+    "seed": 58012
+  },
+  {
+    "sentence": "The cat that the writer that the nurse that the coach that the woman that the pilot that the actor that the mayor called helped noticed visited knew liked remembered approached the tiger.",
+    "correct_answer": "cat",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "writer",
+      "nurse",
+      "coach",
+      "woman",
+      "pilot",
+      "actor",
+      "mayor"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t13",
+    "seed": 58013
+  },
+  {
+    "sentence": "The bear that the coach that the sailor that the chef that the judge that the woman that the pilot that the singer visited met remembered liked admired saw trusted approached the tiger.",
+    "correct_answer": "bear",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "coach",
+      "sailor",
+      "chef",
+      "judge",
+      "woman",
+      "pilot",
+      "singer"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t14",
+    "seed": 58014
+  },
+  {
+    "sentence": "The snake that the actor that the singer that the farmer that the judge that the woman that the pilot that the chef visited admired liked helped saw called trusted followed the horse.",
+    "correct_answer": "snake",
+    "main_object": "horse",
+    "embedded_humans": [
+      "actor",
+      "singer",
+      "farmer",
+      "judge",
+      "woman",
+      "pilot",
+      "chef"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d08_t15",
+    "seed": 58015
+  },
+  {
+    "sentence": "The tiger that the woman that the coach that the boy that the singer that the farmer that the doctor that the nurse remembered met called liked trusted noticed recognized startled the rabbit.",
+    "correct_answer": "tiger",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "woman",
+      "coach",
+      "boy",
+      "singer",
+      "farmer",
+      "doctor",
+      "nurse"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t16",
+    "seed": 58016
+  },
+  {
+    "sentence": "The bird that the nurse that the lawyer that the farmer that the artist that the singer that the pilot that the chef liked saw trusted admired noticed remembered knew followed the eagle.",
+    "correct_answer": "bird",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "nurse",
+      "lawyer",
+      "farmer",
+      "artist",
+      "singer",
+      "pilot",
+      "chef"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d08_t17",
+    "seed": 58017
+  },
+  {
+    "sentence": "The snake that the teacher that the lawyer that the woman that the nurse that the farmer that the sailor that the girl called saw helped knew recognized trusted noticed approached the tiger.",
+    "correct_answer": "snake",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "teacher",
+      "lawyer",
+      "woman",
+      "nurse",
+      "farmer",
+      "sailor",
+      "girl"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t18",
+    "seed": 58018
+  },
+  {
+    "sentence": "The tiger that the singer that the actor that the doctor that the woman that the girl that the boy that the farmer trusted knew saw helped recognized admired remembered chased the rabbit.",
+    "correct_answer": "tiger",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "singer",
+      "actor",
+      "doctor",
+      "woman",
+      "girl",
+      "boy",
+      "farmer"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d08_t19",
+    "seed": 58019
+  },
+  {
+    "sentence": "The tiger that the artist that the coach that the lawyer that the judge that the mayor that the nurse that the singer remembered met saw liked called admired visited startled the deer.",
+    "correct_answer": "tiger",
+    "main_object": "deer",
+    "embedded_humans": [
+      "artist",
+      "coach",
+      "lawyer",
+      "judge",
+      "mayor",
+      "nurse",
+      "singer"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t20",
+    "seed": 58020
+  },
+  {
+    "sentence": "The deer that the judge that the pilot that the boy that the woman that the girl that the teacher that the chef trusted saw liked knew helped met visited approached the fox.",
+    "correct_answer": "deer",
+    "main_object": "fox",
+    "embedded_humans": [
+      "judge",
+      "pilot",
+      "boy",
+      "woman",
+      "girl",
+      "teacher",
+      "chef"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d08_t21",
+    "seed": 58021
+  },
+  {
+    "sentence": "The bear that the girl that the farmer that the artist that the lawyer that the clerk that the teacher that the boy remembered saw admired met recognized knew noticed startled the tiger.",
+    "correct_answer": "bear",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "girl",
+      "farmer",
+      "artist",
+      "lawyer",
+      "clerk",
+      "teacher",
+      "boy"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t22",
+    "seed": 58022
+  },
+  {
+    "sentence": "The dog that the actor that the chef that the boy that the girl that the artist that the sailor that the coach remembered visited admired liked noticed helped met startled the tiger.",
+    "correct_answer": "dog",
+    "main_object": "tiger",
+    "embedded_humans": [
+      "actor",
+      "chef",
+      "boy",
+      "girl",
+      "artist",
+      "sailor",
+      "coach"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t23",
+    "seed": 58023
+  },
+  {
+    "sentence": "The rabbit that the pilot that the girl that the mayor that the nurse that the man that the writer that the singer knew remembered liked helped admired trusted saw chased the lion.",
+    "correct_answer": "rabbit",
+    "main_object": "lion",
+    "embedded_humans": [
+      "pilot",
+      "girl",
+      "mayor",
+      "nurse",
+      "man",
+      "writer",
+      "singer"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d08_t24",
+    "seed": 58024
+  },
+  {
+    "sentence": "The snake that the mayor that the coach that the sailor that the clerk that the lawyer that the chef that the actor recognized noticed met visited admired liked called startled the bear.",
+    "correct_answer": "snake",
+    "main_object": "bear",
+    "embedded_humans": [
+      "mayor",
+      "coach",
+      "sailor",
+      "clerk",
+      "lawyer",
+      "chef",
+      "actor"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t25",
+    "seed": 58025
+  },
+  {
+    "sentence": "The lion that the girl that the mayor that the doctor that the woman that the man that the teacher that the pilot recognized trusted called noticed saw visited admired chased the bird.",
+    "correct_answer": "lion",
+    "main_object": "bird",
+    "embedded_humans": [
+      "girl",
+      "mayor",
+      "doctor",
+      "woman",
+      "man",
+      "teacher",
+      "pilot"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d08_t26",
+    "seed": 58026
+  },
+  {
+    "sentence": "The snake that the doctor that the girl that the writer that the artist that the clerk that the sailor that the coach called trusted remembered helped admired knew noticed chased the cat.",
+    "correct_answer": "snake",
+    "main_object": "cat",
+    "embedded_humans": [
+      "doctor",
+      "girl",
+      "writer",
+      "artist",
+      "clerk",
+      "sailor",
+      "coach"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d08_t27",
+    "seed": 58027
+  },
+  {
+    "sentence": "The rabbit that the woman that the sailor that the lawyer that the mayor that the judge that the girl that the doctor recognized admired visited saw met called trusted startled the fox.",
+    "correct_answer": "rabbit",
+    "main_object": "fox",
+    "embedded_humans": [
+      "woman",
+      "sailor",
+      "lawyer",
+      "mayor",
+      "judge",
+      "girl",
+      "doctor"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t28",
+    "seed": 58028
+  },
+  {
+    "sentence": "The wolf that the artist that the mayor that the boy that the teacher that the farmer that the sailor that the clerk trusted visited called knew remembered noticed liked startled the eagle.",
+    "correct_answer": "wolf",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "artist",
+      "mayor",
+      "boy",
+      "teacher",
+      "farmer",
+      "sailor",
+      "clerk"
+    ],
+    "depth": 8,
+    "n_nouns": 9,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d08_t29",
+    "seed": 58029
+  },
+  {
+    "sentence": "The bird that the coach that the actor that the boy that the sailor that the mayor that the artist that the nurse that the woman noticed met liked remembered visited admired called knew watched the wolf.",
+    "correct_answer": "bird",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "coach",
+      "actor",
+      "boy",
+      "sailor",
+      "mayor",
+      "artist",
+      "nurse",
+      "woman"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t00",
+    "seed": 59000
+  },
+  {
+    "sentence": "The mouse that the nurse that the writer that the man that the teacher that the boy that the actor that the sailor that the doctor noticed trusted saw called recognized liked visited admired followed the rabbit.",
+    "correct_answer": "mouse",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "nurse",
+      "writer",
+      "man",
+      "teacher",
+      "boy",
+      "actor",
+      "sailor",
+      "doctor"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d09_t01",
+    "seed": 59001
+  },
+  {
+    "sentence": "The bear that the sailor that the boy that the chef that the singer that the coach that the writer that the nurse that the lawyer trusted met recognized visited helped remembered liked saw approached the horse.",
+    "correct_answer": "bear",
+    "main_object": "horse",
+    "embedded_humans": [
+      "sailor",
+      "boy",
+      "chef",
+      "singer",
+      "coach",
+      "writer",
+      "nurse",
+      "lawyer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d09_t02",
+    "seed": 59002
+  },
+  {
+    "sentence": "The cat that the woman that the lawyer that the sailor that the judge that the mayor that the pilot that the boy that the artist met admired knew remembered visited saw liked noticed watched the dog.",
+    "correct_answer": "cat",
+    "main_object": "dog",
+    "embedded_humans": [
+      "woman",
+      "lawyer",
+      "sailor",
+      "judge",
+      "mayor",
+      "pilot",
+      "boy",
+      "artist"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t03",
+    "seed": 59003
+  },
+  {
+    "sentence": "The eagle that the doctor that the singer that the sailor that the woman that the actor that the writer that the nurse that the boy recognized trusted visited met noticed called admired knew watched the bear.",
+    "correct_answer": "eagle",
+    "main_object": "bear",
+    "embedded_humans": [
+      "doctor",
+      "singer",
+      "sailor",
+      "woman",
+      "actor",
+      "writer",
+      "nurse",
+      "boy"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t04",
+    "seed": 59004
+  },
+  {
+    "sentence": "The lion that the doctor that the artist that the writer that the judge that the mayor that the chef that the singer that the actor met helped called remembered noticed liked recognized visited followed the fox.",
+    "correct_answer": "lion",
+    "main_object": "fox",
+    "embedded_humans": [
+      "doctor",
+      "artist",
+      "writer",
+      "judge",
+      "mayor",
+      "chef",
+      "singer",
+      "actor"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d09_t05",
+    "seed": 59005
+  },
+  {
+    "sentence": "The dog that the sailor that the girl that the doctor that the actor that the man that the artist that the nurse that the pilot trusted admired noticed remembered knew recognized helped met watched the bear.",
+    "correct_answer": "dog",
+    "main_object": "bear",
+    "embedded_humans": [
+      "sailor",
+      "girl",
+      "doctor",
+      "actor",
+      "man",
+      "artist",
+      "nurse",
+      "pilot"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t06",
+    "seed": 59006
+  },
+  {
+    "sentence": "The wolf that the artist that the judge that the actor that the doctor that the sailor that the teacher that the girl that the nurse called trusted knew visited saw met recognized admired chased the mouse.",
+    "correct_answer": "wolf",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "artist",
+      "judge",
+      "actor",
+      "doctor",
+      "sailor",
+      "teacher",
+      "girl",
+      "nurse"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d09_t07",
+    "seed": 59007
+  },
+  {
+    "sentence": "The tiger that the chef that the judge that the teacher that the girl that the coach that the actor that the nurse that the singer admired recognized helped knew remembered trusted noticed visited watched the horse.",
+    "correct_answer": "tiger",
+    "main_object": "horse",
+    "embedded_humans": [
+      "chef",
+      "judge",
+      "teacher",
+      "girl",
+      "coach",
+      "actor",
+      "nurse",
+      "singer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t08",
+    "seed": 59008
+  },
+  {
+    "sentence": "The snake that the chef that the sailor that the teacher that the nurse that the artist that the doctor that the judge that the woman knew visited called met admired liked saw helped approached the cat.",
+    "correct_answer": "snake",
+    "main_object": "cat",
+    "embedded_humans": [
+      "chef",
+      "sailor",
+      "teacher",
+      "nurse",
+      "artist",
+      "doctor",
+      "judge",
+      "woman"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d09_t09",
+    "seed": 59009
+  },
+  {
+    "sentence": "The bear that the pilot that the chef that the doctor that the singer that the girl that the man that the judge that the mayor saw called recognized visited helped admired trusted remembered startled the mouse.",
+    "correct_answer": "bear",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "pilot",
+      "chef",
+      "doctor",
+      "singer",
+      "girl",
+      "man",
+      "judge",
+      "mayor"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d09_t10",
+    "seed": 59010
+  },
+  {
+    "sentence": "The eagle that the teacher that the farmer that the actor that the nurse that the man that the pilot that the artist that the chef admired knew liked recognized met called saw trusted approached the bear.",
+    "correct_answer": "eagle",
+    "main_object": "bear",
+    "embedded_humans": [
+      "teacher",
+      "farmer",
+      "actor",
+      "nurse",
+      "man",
+      "pilot",
+      "artist",
+      "chef"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d09_t11",
+    "seed": 59011
+  },
+  {
+    "sentence": "The deer that the teacher that the lawyer that the writer that the chef that the farmer that the nurse that the artist that the woman liked visited noticed knew called met saw recognized startled the eagle.",
+    "correct_answer": "deer",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "teacher",
+      "lawyer",
+      "writer",
+      "chef",
+      "farmer",
+      "nurse",
+      "artist",
+      "woman"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d09_t12",
+    "seed": 59012
+  },
+  {
+    "sentence": "The rabbit that the man that the woman that the actor that the mayor that the singer that the sailor that the writer that the judge met recognized remembered saw admired knew called visited watched the bear.",
+    "correct_answer": "rabbit",
+    "main_object": "bear",
+    "embedded_humans": [
+      "man",
+      "woman",
+      "actor",
+      "mayor",
+      "singer",
+      "sailor",
+      "writer",
+      "judge"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t13",
+    "seed": 59013
+  },
+  {
+    "sentence": "The rabbit that the lawyer that the pilot that the chef that the doctor that the writer that the clerk that the woman that the farmer met helped trusted knew liked remembered recognized noticed startled the owl.",
+    "correct_answer": "rabbit",
+    "main_object": "owl",
+    "embedded_humans": [
+      "lawyer",
+      "pilot",
+      "chef",
+      "doctor",
+      "writer",
+      "clerk",
+      "woman",
+      "farmer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d09_t14",
+    "seed": 59014
+  },
+  {
+    "sentence": "The dog that the farmer that the man that the pilot that the coach that the chef that the doctor that the clerk that the judge liked met saw visited remembered trusted admired called watched the owl.",
+    "correct_answer": "dog",
+    "main_object": "owl",
+    "embedded_humans": [
+      "farmer",
+      "man",
+      "pilot",
+      "coach",
+      "chef",
+      "doctor",
+      "clerk",
+      "judge"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t15",
+    "seed": 59015
+  },
+  {
+    "sentence": "The cat that the chef that the actor that the clerk that the sailor that the woman that the nurse that the judge that the writer noticed called helped visited admired liked remembered saw watched the dog.",
+    "correct_answer": "cat",
+    "main_object": "dog",
+    "embedded_humans": [
+      "chef",
+      "actor",
+      "clerk",
+      "sailor",
+      "woman",
+      "nurse",
+      "judge",
+      "writer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t16",
+    "seed": 59016
+  },
+  {
+    "sentence": "The cat that the farmer that the clerk that the nurse that the lawyer that the chef that the pilot that the doctor that the woman trusted knew liked helped admired saw remembered visited chased the bird.",
+    "correct_answer": "cat",
+    "main_object": "bird",
+    "embedded_humans": [
+      "farmer",
+      "clerk",
+      "nurse",
+      "lawyer",
+      "chef",
+      "pilot",
+      "doctor",
+      "woman"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d09_t17",
+    "seed": 59017
+  },
+  {
+    "sentence": "The lion that the farmer that the clerk that the teacher that the boy that the mayor that the singer that the chef that the lawyer remembered visited noticed recognized met trusted saw liked approached the mouse.",
+    "correct_answer": "lion",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "farmer",
+      "clerk",
+      "teacher",
+      "boy",
+      "mayor",
+      "singer",
+      "chef",
+      "lawyer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d09_t18",
+    "seed": 59018
+  },
+  {
+    "sentence": "The rabbit that the actor that the woman that the man that the coach that the pilot that the writer that the clerk that the boy remembered liked met knew recognized saw admired noticed followed the eagle.",
+    "correct_answer": "rabbit",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "actor",
+      "woman",
+      "man",
+      "coach",
+      "pilot",
+      "writer",
+      "clerk",
+      "boy"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d09_t19",
+    "seed": 59019
+  },
+  {
+    "sentence": "The wolf that the mayor that the judge that the pilot that the nurse that the teacher that the writer that the man that the lawyer remembered called admired visited noticed trusted helped knew chased the horse.",
+    "correct_answer": "wolf",
+    "main_object": "horse",
+    "embedded_humans": [
+      "mayor",
+      "judge",
+      "pilot",
+      "nurse",
+      "teacher",
+      "writer",
+      "man",
+      "lawyer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d09_t20",
+    "seed": 59020
+  },
+  {
+    "sentence": "The lion that the farmer that the mayor that the writer that the chef that the doctor that the boy that the clerk that the lawyer met saw helped recognized trusted noticed remembered visited watched the mouse.",
+    "correct_answer": "lion",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "farmer",
+      "mayor",
+      "writer",
+      "chef",
+      "doctor",
+      "boy",
+      "clerk",
+      "lawyer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t21",
+    "seed": 59021
+  },
+  {
+    "sentence": "The fox that the pilot that the boy that the artist that the coach that the girl that the doctor that the man that the actor trusted visited knew called admired met saw recognized startled the bird.",
+    "correct_answer": "fox",
+    "main_object": "bird",
+    "embedded_humans": [
+      "pilot",
+      "boy",
+      "artist",
+      "coach",
+      "girl",
+      "doctor",
+      "man",
+      "actor"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d09_t22",
+    "seed": 59022
+  },
+  {
+    "sentence": "The mouse that the lawyer that the writer that the boy that the clerk that the mayor that the coach that the artist that the pilot trusted helped called recognized noticed saw admired knew approached the bird.",
+    "correct_answer": "mouse",
+    "main_object": "bird",
+    "embedded_humans": [
+      "lawyer",
+      "writer",
+      "boy",
+      "clerk",
+      "mayor",
+      "coach",
+      "artist",
+      "pilot"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d09_t23",
+    "seed": 59023
+  },
+  {
+    "sentence": "The dog that the mayor that the clerk that the teacher that the man that the actor that the judge that the woman that the farmer recognized noticed remembered visited saw trusted met called startled the snake.",
+    "correct_answer": "dog",
+    "main_object": "snake",
+    "embedded_humans": [
+      "mayor",
+      "clerk",
+      "teacher",
+      "man",
+      "actor",
+      "judge",
+      "woman",
+      "farmer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d09_t24",
+    "seed": 59024
+  },
+  {
+    "sentence": "The tiger that the man that the teacher that the mayor that the woman that the artist that the chef that the clerk that the judge liked noticed saw met helped trusted visited admired watched the bird.",
+    "correct_answer": "tiger",
+    "main_object": "bird",
+    "embedded_humans": [
+      "man",
+      "teacher",
+      "mayor",
+      "woman",
+      "artist",
+      "chef",
+      "clerk",
+      "judge"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t25",
+    "seed": 59025
+  },
+  {
+    "sentence": "The lion that the artist that the singer that the boy that the girl that the actor that the clerk that the chef that the mayor saw admired liked recognized met noticed called visited watched the bird.",
+    "correct_answer": "lion",
+    "main_object": "bird",
+    "embedded_humans": [
+      "artist",
+      "singer",
+      "boy",
+      "girl",
+      "actor",
+      "clerk",
+      "chef",
+      "mayor"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d09_t26",
+    "seed": 59026
+  },
+  {
+    "sentence": "The tiger that the mayor that the chef that the nurse that the sailor that the coach that the man that the pilot that the farmer knew noticed called visited saw remembered met trusted followed the bear.",
+    "correct_answer": "tiger",
+    "main_object": "bear",
+    "embedded_humans": [
+      "mayor",
+      "chef",
+      "nurse",
+      "sailor",
+      "coach",
+      "man",
+      "pilot",
+      "farmer"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d09_t27",
+    "seed": 59027
+  },
+  {
+    "sentence": "The deer that the mayor that the actor that the singer that the boy that the girl that the judge that the farmer that the artist noticed recognized trusted remembered called admired knew visited startled the bird.",
+    "correct_answer": "deer",
+    "main_object": "bird",
+    "embedded_humans": [
+      "mayor",
+      "actor",
+      "singer",
+      "boy",
+      "girl",
+      "judge",
+      "farmer",
+      "artist"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d09_t28",
+    "seed": 59028
+  },
+  {
+    "sentence": "The tiger that the pilot that the chef that the doctor that the lawyer that the sailor that the nurse that the man that the teacher visited recognized trusted liked called remembered met saw followed the cat.",
+    "correct_answer": "tiger",
+    "main_object": "cat",
+    "embedded_humans": [
+      "pilot",
+      "chef",
+      "doctor",
+      "lawyer",
+      "sailor",
+      "nurse",
+      "man",
+      "teacher"
+    ],
+    "depth": 9,
+    "n_nouns": 10,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d09_t29",
+    "seed": 59029
+  },
+  {
+    "sentence": "The lion that the singer that the judge that the chef that the woman that the lawyer that the boy that the doctor that the teacher that the mayor remembered admired helped liked trusted saw called noticed knew approached the owl.",
+    "correct_answer": "lion",
+    "main_object": "owl",
+    "embedded_humans": [
+      "singer",
+      "judge",
+      "chef",
+      "woman",
+      "lawyer",
+      "boy",
+      "doctor",
+      "teacher",
+      "mayor"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t00",
+    "seed": 60000
+  },
+  {
+    "sentence": "The owl that the writer that the nurse that the clerk that the sailor that the doctor that the chef that the farmer that the coach that the girl liked visited admired knew called recognized saw noticed trusted watched the mouse.",
+    "correct_answer": "owl",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "writer",
+      "nurse",
+      "clerk",
+      "sailor",
+      "doctor",
+      "chef",
+      "farmer",
+      "coach",
+      "girl"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t01",
+    "seed": 60001
+  },
+  {
+    "sentence": "The bear that the chef that the singer that the judge that the artist that the mayor that the teacher that the clerk that the man that the pilot saw knew remembered recognized helped called admired liked visited startled the dog.",
+    "correct_answer": "bear",
+    "main_object": "dog",
+    "embedded_humans": [
+      "chef",
+      "singer",
+      "judge",
+      "artist",
+      "mayor",
+      "teacher",
+      "clerk",
+      "man",
+      "pilot"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t02",
+    "seed": 60002
+  },
+  {
+    "sentence": "The rabbit that the actor that the man that the clerk that the artist that the judge that the mayor that the sailor that the nurse that the doctor called helped met admired saw liked noticed visited recognized watched the lion.",
+    "correct_answer": "rabbit",
+    "main_object": "lion",
+    "embedded_humans": [
+      "actor",
+      "man",
+      "clerk",
+      "artist",
+      "judge",
+      "mayor",
+      "sailor",
+      "nurse",
+      "doctor"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t03",
+    "seed": 60003
+  },
+  {
+    "sentence": "The dog that the clerk that the pilot that the nurse that the teacher that the man that the judge that the boy that the woman that the writer recognized helped saw knew remembered met called visited noticed chased the owl.",
+    "correct_answer": "dog",
+    "main_object": "owl",
+    "embedded_humans": [
+      "clerk",
+      "pilot",
+      "nurse",
+      "teacher",
+      "man",
+      "judge",
+      "boy",
+      "woman",
+      "writer"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d10_t04",
+    "seed": 60004
+  },
+  {
+    "sentence": "The bird that the artist that the chef that the mayor that the actor that the judge that the singer that the boy that the pilot that the teacher trusted liked knew helped saw noticed visited remembered met approached the fox.",
+    "correct_answer": "bird",
+    "main_object": "fox",
+    "embedded_humans": [
+      "artist",
+      "chef",
+      "mayor",
+      "actor",
+      "judge",
+      "singer",
+      "boy",
+      "pilot",
+      "teacher"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t05",
+    "seed": 60005
+  },
+  {
+    "sentence": "The fox that the boy that the judge that the writer that the farmer that the man that the chef that the teacher that the singer that the artist noticed remembered visited called helped recognized met admired saw approached the bird.",
+    "correct_answer": "fox",
+    "main_object": "bird",
+    "embedded_humans": [
+      "boy",
+      "judge",
+      "writer",
+      "farmer",
+      "man",
+      "chef",
+      "teacher",
+      "singer",
+      "artist"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t06",
+    "seed": 60006
+  },
+  {
+    "sentence": "The tiger that the teacher that the girl that the pilot that the boy that the writer that the artist that the nurse that the farmer that the man helped noticed remembered recognized saw trusted met called liked followed the deer.",
+    "correct_answer": "tiger",
+    "main_object": "deer",
+    "embedded_humans": [
+      "teacher",
+      "girl",
+      "pilot",
+      "boy",
+      "writer",
+      "artist",
+      "nurse",
+      "farmer",
+      "man"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d10_t07",
+    "seed": 60007
+  },
+  {
+    "sentence": "The snake that the teacher that the boy that the doctor that the farmer that the coach that the man that the artist that the judge that the writer noticed recognized trusted met admired called helped remembered visited approached the owl.",
+    "correct_answer": "snake",
+    "main_object": "owl",
+    "embedded_humans": [
+      "teacher",
+      "boy",
+      "doctor",
+      "farmer",
+      "coach",
+      "man",
+      "artist",
+      "judge",
+      "writer"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t08",
+    "seed": 60008
+  },
+  {
+    "sentence": "The eagle that the singer that the writer that the clerk that the farmer that the sailor that the teacher that the girl that the nurse that the artist recognized helped saw met called admired liked knew noticed followed the lion.",
+    "correct_answer": "eagle",
+    "main_object": "lion",
+    "embedded_humans": [
+      "singer",
+      "writer",
+      "clerk",
+      "farmer",
+      "sailor",
+      "teacher",
+      "girl",
+      "nurse",
+      "artist"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d10_t09",
+    "seed": 60009
+  },
+  {
+    "sentence": "The deer that the woman that the writer that the lawyer that the chef that the nurse that the actor that the girl that the farmer that the coach helped visited recognized knew called remembered trusted liked admired chased the lion.",
+    "correct_answer": "deer",
+    "main_object": "lion",
+    "embedded_humans": [
+      "woman",
+      "writer",
+      "lawyer",
+      "chef",
+      "nurse",
+      "actor",
+      "girl",
+      "farmer",
+      "coach"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d10_t10",
+    "seed": 60010
+  },
+  {
+    "sentence": "The lion that the clerk that the coach that the teacher that the mayor that the sailor that the doctor that the writer that the actor that the farmer met trusted remembered saw knew visited called admired recognized chased the snake.",
+    "correct_answer": "lion",
+    "main_object": "snake",
+    "embedded_humans": [
+      "clerk",
+      "coach",
+      "teacher",
+      "mayor",
+      "sailor",
+      "doctor",
+      "writer",
+      "actor",
+      "farmer"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d10_t11",
+    "seed": 60011
+  },
+  {
+    "sentence": "The lion that the mayor that the girl that the man that the writer that the coach that the woman that the pilot that the chef that the clerk trusted recognized noticed called remembered visited knew helped saw startled the dog.",
+    "correct_answer": "lion",
+    "main_object": "dog",
+    "embedded_humans": [
+      "mayor",
+      "girl",
+      "man",
+      "writer",
+      "coach",
+      "woman",
+      "pilot",
+      "chef",
+      "clerk"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t12",
+    "seed": 60012
+  },
+  {
+    "sentence": "The horse that the coach that the boy that the singer that the mayor that the pilot that the girl that the woman that the sailor that the teacher called admired remembered visited saw helped recognized trusted noticed approached the rabbit.",
+    "correct_answer": "horse",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "coach",
+      "boy",
+      "singer",
+      "mayor",
+      "pilot",
+      "girl",
+      "woman",
+      "sailor",
+      "teacher"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t13",
+    "seed": 60013
+  },
+  {
+    "sentence": "The owl that the writer that the pilot that the actor that the teacher that the boy that the chef that the nurse that the man that the lawyer knew called noticed admired recognized visited helped remembered trusted watched the mouse.",
+    "correct_answer": "owl",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "writer",
+      "pilot",
+      "actor",
+      "teacher",
+      "boy",
+      "chef",
+      "nurse",
+      "man",
+      "lawyer"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t14",
+    "seed": 60014
+  },
+  {
+    "sentence": "The mouse that the singer that the coach that the teacher that the actor that the boy that the doctor that the sailor that the chef that the artist remembered met liked knew recognized helped saw admired noticed startled the bird.",
+    "correct_answer": "mouse",
+    "main_object": "bird",
+    "embedded_humans": [
+      "singer",
+      "coach",
+      "teacher",
+      "actor",
+      "boy",
+      "doctor",
+      "sailor",
+      "chef",
+      "artist"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t15",
+    "seed": 60015
+  },
+  {
+    "sentence": "The wolf that the boy that the lawyer that the woman that the writer that the singer that the man that the farmer that the pilot that the actor liked noticed admired recognized helped visited remembered called knew followed the owl.",
+    "correct_answer": "wolf",
+    "main_object": "owl",
+    "embedded_humans": [
+      "boy",
+      "lawyer",
+      "woman",
+      "writer",
+      "singer",
+      "man",
+      "farmer",
+      "pilot",
+      "actor"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d10_t16",
+    "seed": 60016
+  },
+  {
+    "sentence": "The wolf that the mayor that the coach that the writer that the teacher that the doctor that the artist that the clerk that the nurse that the boy visited admired helped called knew met saw liked noticed startled the deer.",
+    "correct_answer": "wolf",
+    "main_object": "deer",
+    "embedded_humans": [
+      "mayor",
+      "coach",
+      "writer",
+      "teacher",
+      "doctor",
+      "artist",
+      "clerk",
+      "nurse",
+      "boy"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t17",
+    "seed": 60017
+  },
+  {
+    "sentence": "The horse that the actor that the nurse that the writer that the singer that the girl that the teacher that the doctor that the judge that the boy saw visited called helped knew recognized remembered admired liked watched the cat.",
+    "correct_answer": "horse",
+    "main_object": "cat",
+    "embedded_humans": [
+      "actor",
+      "nurse",
+      "writer",
+      "singer",
+      "girl",
+      "teacher",
+      "doctor",
+      "judge",
+      "boy"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t18",
+    "seed": 60018
+  },
+  {
+    "sentence": "The wolf that the coach that the clerk that the judge that the pilot that the writer that the nurse that the girl that the artist that the mayor knew liked called saw helped remembered admired trusted met watched the horse.",
+    "correct_answer": "wolf",
+    "main_object": "horse",
+    "embedded_humans": [
+      "coach",
+      "clerk",
+      "judge",
+      "pilot",
+      "writer",
+      "nurse",
+      "girl",
+      "artist",
+      "mayor"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t19",
+    "seed": 60019
+  },
+  {
+    "sentence": "The bird that the lawyer that the pilot that the girl that the mayor that the singer that the writer that the nurse that the clerk that the doctor called met remembered admired helped recognized trusted saw visited chased the eagle.",
+    "correct_answer": "bird",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "lawyer",
+      "pilot",
+      "girl",
+      "mayor",
+      "singer",
+      "writer",
+      "nurse",
+      "clerk",
+      "doctor"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d10_t20",
+    "seed": 60020
+  },
+  {
+    "sentence": "The mouse that the sailor that the coach that the boy that the chef that the teacher that the farmer that the man that the writer that the pilot liked remembered called helped admired recognized trusted met knew approached the fox.",
+    "correct_answer": "mouse",
+    "main_object": "fox",
+    "embedded_humans": [
+      "sailor",
+      "coach",
+      "boy",
+      "chef",
+      "teacher",
+      "farmer",
+      "man",
+      "writer",
+      "pilot"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t21",
+    "seed": 60021
+  },
+  {
+    "sentence": "The mouse that the coach that the actor that the artist that the pilot that the sailor that the mayor that the doctor that the boy that the clerk admired liked trusted knew helped remembered called recognized visited approached the cat.",
+    "correct_answer": "mouse",
+    "main_object": "cat",
+    "embedded_humans": [
+      "coach",
+      "actor",
+      "artist",
+      "pilot",
+      "sailor",
+      "mayor",
+      "doctor",
+      "boy",
+      "clerk"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d10_t22",
+    "seed": 60022
+  },
+  {
+    "sentence": "The bear that the sailor that the nurse that the man that the artist that the writer that the boy that the lawyer that the coach that the pilot trusted noticed visited helped admired met recognized called knew startled the lion.",
+    "correct_answer": "bear",
+    "main_object": "lion",
+    "embedded_humans": [
+      "sailor",
+      "nurse",
+      "man",
+      "artist",
+      "writer",
+      "boy",
+      "lawyer",
+      "coach",
+      "pilot"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t23",
+    "seed": 60023
+  },
+  {
+    "sentence": "The deer that the mayor that the writer that the coach that the nurse that the farmer that the singer that the lawyer that the sailor that the girl remembered trusted called recognized met helped liked knew admired startled the cat.",
+    "correct_answer": "deer",
+    "main_object": "cat",
+    "embedded_humans": [
+      "mayor",
+      "writer",
+      "coach",
+      "nurse",
+      "farmer",
+      "singer",
+      "lawyer",
+      "sailor",
+      "girl"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t24",
+    "seed": 60024
+  },
+  {
+    "sentence": "The cat that the actor that the boy that the singer that the nurse that the doctor that the mayor that the writer that the pilot that the judge trusted remembered noticed knew met admired saw visited liked watched the owl.",
+    "correct_answer": "cat",
+    "main_object": "owl",
+    "embedded_humans": [
+      "actor",
+      "boy",
+      "singer",
+      "nurse",
+      "doctor",
+      "mayor",
+      "writer",
+      "pilot",
+      "judge"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t25",
+    "seed": 60025
+  },
+  {
+    "sentence": "The bear that the mayor that the singer that the man that the judge that the boy that the coach that the writer that the farmer that the teacher visited helped admired liked knew remembered met noticed trusted startled the snake.",
+    "correct_answer": "bear",
+    "main_object": "snake",
+    "embedded_humans": [
+      "mayor",
+      "singer",
+      "man",
+      "judge",
+      "boy",
+      "coach",
+      "writer",
+      "farmer",
+      "teacher"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t26",
+    "seed": 60026
+  },
+  {
+    "sentence": "The bird that the writer that the nurse that the chef that the judge that the pilot that the singer that the woman that the doctor that the mayor remembered recognized liked admired helped called saw knew noticed followed the cat.",
+    "correct_answer": "bird",
+    "main_object": "cat",
+    "embedded_humans": [
+      "writer",
+      "nurse",
+      "chef",
+      "judge",
+      "pilot",
+      "singer",
+      "woman",
+      "doctor",
+      "mayor"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d10_t27",
+    "seed": 60027
+  },
+  {
+    "sentence": "The tiger that the singer that the lawyer that the chef that the clerk that the writer that the boy that the coach that the woman that the pilot remembered helped recognized noticed admired saw liked knew met watched the owl.",
+    "correct_answer": "tiger",
+    "main_object": "owl",
+    "embedded_humans": [
+      "singer",
+      "lawyer",
+      "chef",
+      "clerk",
+      "writer",
+      "boy",
+      "coach",
+      "woman",
+      "pilot"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d10_t28",
+    "seed": 60028
+  },
+  {
+    "sentence": "The mouse that the singer that the mayor that the farmer that the woman that the girl that the actor that the boy that the judge that the pilot noticed helped remembered admired liked called recognized knew visited startled the owl.",
+    "correct_answer": "mouse",
+    "main_object": "owl",
+    "embedded_humans": [
+      "singer",
+      "mayor",
+      "farmer",
+      "woman",
+      "girl",
+      "actor",
+      "boy",
+      "judge",
+      "pilot"
+    ],
+    "depth": 10,
+    "n_nouns": 11,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d10_t29",
+    "seed": 60029
+  },
+  {
+    "sentence": "The bear that the sailor that the chef that the doctor that the girl that the woman that the clerk that the man that the lawyer that the actor that the teacher met knew saw noticed remembered called recognized helped visited admired watched the bird.",
+    "correct_answer": "bear",
+    "main_object": "bird",
+    "embedded_humans": [
+      "sailor",
+      "chef",
+      "doctor",
+      "girl",
+      "woman",
+      "clerk",
+      "man",
+      "lawyer",
+      "actor",
+      "teacher"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t00",
+    "seed": 61000
+  },
+  {
+    "sentence": "The horse that the mayor that the girl that the lawyer that the chef that the sailor that the writer that the doctor that the boy that the man that the actor visited remembered admired recognized met called knew saw helped liked startled the wolf.",
+    "correct_answer": "horse",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "mayor",
+      "girl",
+      "lawyer",
+      "chef",
+      "sailor",
+      "writer",
+      "doctor",
+      "boy",
+      "man",
+      "actor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d11_t01",
+    "seed": 61001
+  },
+  {
+    "sentence": "The mouse that the teacher that the nurse that the coach that the doctor that the farmer that the clerk that the writer that the girl that the man that the judge recognized knew liked helped visited trusted remembered admired called noticed approached the eagle.",
+    "correct_answer": "mouse",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "teacher",
+      "nurse",
+      "coach",
+      "doctor",
+      "farmer",
+      "clerk",
+      "writer",
+      "girl",
+      "man",
+      "judge"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d11_t02",
+    "seed": 61002
+  },
+  {
+    "sentence": "The owl that the actor that the girl that the farmer that the nurse that the singer that the writer that the sailor that the boy that the artist that the chef liked met saw called remembered trusted helped admired visited knew followed the bird.",
+    "correct_answer": "owl",
+    "main_object": "bird",
+    "embedded_humans": [
+      "actor",
+      "girl",
+      "farmer",
+      "nurse",
+      "singer",
+      "writer",
+      "sailor",
+      "boy",
+      "artist",
+      "chef"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d11_t03",
+    "seed": 61003
+  },
+  {
+    "sentence": "The dog that the man that the woman that the actor that the farmer that the artist that the chef that the pilot that the nurse that the girl that the doctor admired visited remembered helped liked met noticed saw trusted knew chased the fox.",
+    "correct_answer": "dog",
+    "main_object": "fox",
+    "embedded_humans": [
+      "man",
+      "woman",
+      "actor",
+      "farmer",
+      "artist",
+      "chef",
+      "pilot",
+      "nurse",
+      "girl",
+      "doctor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d11_t04",
+    "seed": 61004
+  },
+  {
+    "sentence": "The fox that the nurse that the actor that the chef that the sailor that the lawyer that the clerk that the teacher that the woman that the pilot that the farmer noticed liked visited trusted recognized admired saw called knew remembered followed the snake.",
+    "correct_answer": "fox",
+    "main_object": "snake",
+    "embedded_humans": [
+      "nurse",
+      "actor",
+      "chef",
+      "sailor",
+      "lawyer",
+      "clerk",
+      "teacher",
+      "woman",
+      "pilot",
+      "farmer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d11_t05",
+    "seed": 61005
+  },
+  {
+    "sentence": "The dog that the doctor that the pilot that the nurse that the coach that the girl that the mayor that the farmer that the artist that the writer that the sailor visited saw admired noticed met knew called helped remembered liked approached the horse.",
+    "correct_answer": "dog",
+    "main_object": "horse",
+    "embedded_humans": [
+      "doctor",
+      "pilot",
+      "nurse",
+      "coach",
+      "girl",
+      "mayor",
+      "farmer",
+      "artist",
+      "writer",
+      "sailor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d11_t06",
+    "seed": 61006
+  },
+  {
+    "sentence": "The lion that the coach that the clerk that the doctor that the actor that the teacher that the judge that the artist that the pilot that the woman that the writer visited admired saw trusted noticed called helped remembered recognized liked startled the owl.",
+    "correct_answer": "lion",
+    "main_object": "owl",
+    "embedded_humans": [
+      "coach",
+      "clerk",
+      "doctor",
+      "actor",
+      "teacher",
+      "judge",
+      "artist",
+      "pilot",
+      "woman",
+      "writer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d11_t07",
+    "seed": 61007
+  },
+  {
+    "sentence": "The rabbit that the doctor that the teacher that the mayor that the judge that the singer that the pilot that the man that the girl that the boy that the actor saw liked trusted knew met called helped visited remembered admired followed the wolf.",
+    "correct_answer": "rabbit",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "doctor",
+      "teacher",
+      "mayor",
+      "judge",
+      "singer",
+      "pilot",
+      "man",
+      "girl",
+      "boy",
+      "actor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d11_t08",
+    "seed": 61008
+  },
+  {
+    "sentence": "The horse that the mayor that the doctor that the teacher that the nurse that the boy that the farmer that the woman that the coach that the judge that the actor noticed admired liked recognized visited called trusted knew remembered saw chased the bird.",
+    "correct_answer": "horse",
+    "main_object": "bird",
+    "embedded_humans": [
+      "mayor",
+      "doctor",
+      "teacher",
+      "nurse",
+      "boy",
+      "farmer",
+      "woman",
+      "coach",
+      "judge",
+      "actor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d11_t09",
+    "seed": 61009
+  },
+  {
+    "sentence": "The rabbit that the nurse that the boy that the judge that the teacher that the mayor that the singer that the woman that the artist that the man that the lawyer admired met saw recognized visited noticed knew called liked helped chased the cat.",
+    "correct_answer": "rabbit",
+    "main_object": "cat",
+    "embedded_humans": [
+      "nurse",
+      "boy",
+      "judge",
+      "teacher",
+      "mayor",
+      "singer",
+      "woman",
+      "artist",
+      "man",
+      "lawyer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d11_t10",
+    "seed": 61010
+  },
+  {
+    "sentence": "The cat that the mayor that the lawyer that the woman that the teacher that the coach that the boy that the man that the doctor that the singer that the judge trusted knew saw recognized liked helped met noticed visited remembered chased the dog.",
+    "correct_answer": "cat",
+    "main_object": "dog",
+    "embedded_humans": [
+      "mayor",
+      "lawyer",
+      "woman",
+      "teacher",
+      "coach",
+      "boy",
+      "man",
+      "doctor",
+      "singer",
+      "judge"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d11_t11",
+    "seed": 61011
+  },
+  {
+    "sentence": "The bird that the singer that the lawyer that the coach that the boy that the girl that the nurse that the actor that the teacher that the mayor that the judge met admired visited saw called recognized remembered trusted knew noticed followed the eagle.",
+    "correct_answer": "bird",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "singer",
+      "lawyer",
+      "coach",
+      "boy",
+      "girl",
+      "nurse",
+      "actor",
+      "teacher",
+      "mayor",
+      "judge"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d11_t12",
+    "seed": 61012
+  },
+  {
+    "sentence": "The wolf that the chef that the artist that the lawyer that the actor that the mayor that the writer that the girl that the sailor that the nurse that the singer recognized noticed saw helped visited trusted liked remembered met called watched the horse.",
+    "correct_answer": "wolf",
+    "main_object": "horse",
+    "embedded_humans": [
+      "chef",
+      "artist",
+      "lawyer",
+      "actor",
+      "mayor",
+      "writer",
+      "girl",
+      "sailor",
+      "nurse",
+      "singer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t13",
+    "seed": 61013
+  },
+  {
+    "sentence": "The tiger that the mayor that the chef that the man that the artist that the coach that the woman that the actor that the teacher that the doctor that the girl noticed called visited admired knew remembered trusted met liked recognized approached the lion.",
+    "correct_answer": "tiger",
+    "main_object": "lion",
+    "embedded_humans": [
+      "mayor",
+      "chef",
+      "man",
+      "artist",
+      "coach",
+      "woman",
+      "actor",
+      "teacher",
+      "doctor",
+      "girl"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d11_t14",
+    "seed": 61014
+  },
+  {
+    "sentence": "The mouse that the coach that the teacher that the singer that the boy that the farmer that the doctor that the actor that the judge that the lawyer that the man recognized visited helped remembered trusted met liked saw noticed knew startled the dog.",
+    "correct_answer": "mouse",
+    "main_object": "dog",
+    "embedded_humans": [
+      "coach",
+      "teacher",
+      "singer",
+      "boy",
+      "farmer",
+      "doctor",
+      "actor",
+      "judge",
+      "lawyer",
+      "man"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d11_t15",
+    "seed": 61015
+  },
+  {
+    "sentence": "The bear that the judge that the clerk that the chef that the artist that the coach that the woman that the writer that the farmer that the mayor that the actor visited remembered saw liked called noticed knew trusted recognized admired followed the mouse.",
+    "correct_answer": "bear",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "judge",
+      "clerk",
+      "chef",
+      "artist",
+      "coach",
+      "woman",
+      "writer",
+      "farmer",
+      "mayor",
+      "actor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d11_t16",
+    "seed": 61016
+  },
+  {
+    "sentence": "The mouse that the actor that the nurse that the clerk that the boy that the mayor that the judge that the sailor that the doctor that the chef that the farmer recognized knew saw visited admired remembered called met noticed trusted watched the lion.",
+    "correct_answer": "mouse",
+    "main_object": "lion",
+    "embedded_humans": [
+      "actor",
+      "nurse",
+      "clerk",
+      "boy",
+      "mayor",
+      "judge",
+      "sailor",
+      "doctor",
+      "chef",
+      "farmer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t17",
+    "seed": 61017
+  },
+  {
+    "sentence": "The deer that the coach that the chef that the man that the artist that the boy that the woman that the clerk that the nurse that the sailor that the lawyer met called visited remembered liked noticed knew trusted saw recognized startled the horse.",
+    "correct_answer": "deer",
+    "main_object": "horse",
+    "embedded_humans": [
+      "coach",
+      "chef",
+      "man",
+      "artist",
+      "boy",
+      "woman",
+      "clerk",
+      "nurse",
+      "sailor",
+      "lawyer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d11_t18",
+    "seed": 61018
+  },
+  {
+    "sentence": "The tiger that the artist that the writer that the man that the woman that the nurse that the farmer that the boy that the sailor that the actor that the mayor recognized called admired trusted helped met visited remembered liked noticed chased the horse.",
+    "correct_answer": "tiger",
+    "main_object": "horse",
+    "embedded_humans": [
+      "artist",
+      "writer",
+      "man",
+      "woman",
+      "nurse",
+      "farmer",
+      "boy",
+      "sailor",
+      "actor",
+      "mayor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d11_t19",
+    "seed": 61019
+  },
+  {
+    "sentence": "The wolf that the teacher that the chef that the singer that the lawyer that the actor that the boy that the artist that the farmer that the girl that the doctor noticed knew trusted remembered called met admired saw visited helped watched the rabbit.",
+    "correct_answer": "wolf",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "teacher",
+      "chef",
+      "singer",
+      "lawyer",
+      "actor",
+      "boy",
+      "artist",
+      "farmer",
+      "girl",
+      "doctor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t20",
+    "seed": 61020
+  },
+  {
+    "sentence": "The eagle that the doctor that the judge that the clerk that the coach that the nurse that the man that the actor that the woman that the farmer that the artist met noticed admired saw trusted liked visited helped remembered recognized watched the bear.",
+    "correct_answer": "eagle",
+    "main_object": "bear",
+    "embedded_humans": [
+      "doctor",
+      "judge",
+      "clerk",
+      "coach",
+      "nurse",
+      "man",
+      "actor",
+      "woman",
+      "farmer",
+      "artist"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t21",
+    "seed": 61021
+  },
+  {
+    "sentence": "The bird that the mayor that the woman that the lawyer that the pilot that the actor that the farmer that the judge that the writer that the artist that the boy recognized called saw liked helped remembered admired met visited noticed approached the owl.",
+    "correct_answer": "bird",
+    "main_object": "owl",
+    "embedded_humans": [
+      "mayor",
+      "woman",
+      "lawyer",
+      "pilot",
+      "actor",
+      "farmer",
+      "judge",
+      "writer",
+      "artist",
+      "boy"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d11_t22",
+    "seed": 61022
+  },
+  {
+    "sentence": "The bird that the sailor that the nurse that the actor that the teacher that the clerk that the artist that the woman that the doctor that the lawyer that the pilot noticed remembered liked visited helped knew saw admired met recognized watched the eagle.",
+    "correct_answer": "bird",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "sailor",
+      "nurse",
+      "actor",
+      "teacher",
+      "clerk",
+      "artist",
+      "woman",
+      "doctor",
+      "lawyer",
+      "pilot"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t23",
+    "seed": 61023
+  },
+  {
+    "sentence": "The mouse that the actor that the judge that the artist that the farmer that the nurse that the doctor that the pilot that the chef that the mayor that the man knew trusted called saw liked helped remembered noticed met recognized watched the owl.",
+    "correct_answer": "mouse",
+    "main_object": "owl",
+    "embedded_humans": [
+      "actor",
+      "judge",
+      "artist",
+      "farmer",
+      "nurse",
+      "doctor",
+      "pilot",
+      "chef",
+      "mayor",
+      "man"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d11_t24",
+    "seed": 61024
+  },
+  {
+    "sentence": "The horse that the doctor that the judge that the clerk that the man that the coach that the woman that the boy that the actor that the girl that the sailor recognized met remembered visited called admired noticed saw helped trusted followed the wolf.",
+    "correct_answer": "horse",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "doctor",
+      "judge",
+      "clerk",
+      "man",
+      "coach",
+      "woman",
+      "boy",
+      "actor",
+      "girl",
+      "sailor"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d11_t25",
+    "seed": 61025
+  },
+  {
+    "sentence": "The cat that the woman that the doctor that the judge that the teacher that the chef that the sailor that the clerk that the nurse that the mayor that the boy saw helped called noticed trusted visited admired met recognized liked approached the deer.",
+    "correct_answer": "cat",
+    "main_object": "deer",
+    "embedded_humans": [
+      "woman",
+      "doctor",
+      "judge",
+      "teacher",
+      "chef",
+      "sailor",
+      "clerk",
+      "nurse",
+      "mayor",
+      "boy"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d11_t26",
+    "seed": 61026
+  },
+  {
+    "sentence": "The bear that the doctor that the artist that the man that the sailor that the teacher that the boy that the writer that the pilot that the clerk that the judge called trusted noticed liked remembered met helped knew saw recognized approached the lion.",
+    "correct_answer": "bear",
+    "main_object": "lion",
+    "embedded_humans": [
+      "doctor",
+      "artist",
+      "man",
+      "sailor",
+      "teacher",
+      "boy",
+      "writer",
+      "pilot",
+      "clerk",
+      "judge"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d11_t27",
+    "seed": 61027
+  },
+  {
+    "sentence": "The lion that the singer that the man that the pilot that the chef that the farmer that the girl that the lawyer that the clerk that the boy that the coach helped saw trusted liked called knew visited met remembered admired chased the eagle.",
+    "correct_answer": "lion",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "singer",
+      "man",
+      "pilot",
+      "chef",
+      "farmer",
+      "girl",
+      "lawyer",
+      "clerk",
+      "boy",
+      "coach"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d11_t28",
+    "seed": 61028
+  },
+  {
+    "sentence": "The wolf that the teacher that the actor that the sailor that the nurse that the judge that the singer that the clerk that the woman that the writer that the farmer saw noticed visited met admired remembered called trusted liked helped startled the mouse.",
+    "correct_answer": "wolf",
+    "main_object": "mouse",
+    "embedded_humans": [
+      "teacher",
+      "actor",
+      "sailor",
+      "nurse",
+      "judge",
+      "singer",
+      "clerk",
+      "woman",
+      "writer",
+      "farmer"
+    ],
+    "depth": 11,
+    "n_nouns": 12,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d11_t29",
+    "seed": 61029
+  },
+  {
+    "sentence": "The lion that the girl that the writer that the nurse that the man that the pilot that the clerk that the singer that the actor that the coach that the judge that the artist helped recognized called noticed liked admired knew visited met saw remembered watched the fox.",
+    "correct_answer": "lion",
+    "main_object": "fox",
+    "embedded_humans": [
+      "girl",
+      "writer",
+      "nurse",
+      "man",
+      "pilot",
+      "clerk",
+      "singer",
+      "actor",
+      "coach",
+      "judge",
+      "artist"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d12_t00",
+    "seed": 62000
+  },
+  {
+    "sentence": "The deer that the man that the singer that the actor that the nurse that the coach that the boy that the chef that the lawyer that the writer that the clerk that the doctor helped knew liked met noticed called admired saw remembered recognized visited watched the fox.",
+    "correct_answer": "deer",
+    "main_object": "fox",
+    "embedded_humans": [
+      "man",
+      "singer",
+      "actor",
+      "nurse",
+      "coach",
+      "boy",
+      "chef",
+      "lawyer",
+      "writer",
+      "clerk",
+      "doctor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d12_t01",
+    "seed": 62001
+  },
+  {
+    "sentence": "The snake that the chef that the teacher that the pilot that the actor that the man that the farmer that the nurse that the girl that the woman that the judge that the coach helped remembered saw trusted recognized visited noticed admired liked knew met chased the lion.",
+    "correct_answer": "snake",
+    "main_object": "lion",
+    "embedded_humans": [
+      "chef",
+      "teacher",
+      "pilot",
+      "actor",
+      "man",
+      "farmer",
+      "nurse",
+      "girl",
+      "woman",
+      "judge",
+      "coach"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t02",
+    "seed": 62002
+  },
+  {
+    "sentence": "The fox that the singer that the pilot that the nurse that the lawyer that the writer that the coach that the clerk that the man that the judge that the farmer that the actor helped trusted met visited remembered admired noticed saw recognized knew called followed the bear.",
+    "correct_answer": "fox",
+    "main_object": "bear",
+    "embedded_humans": [
+      "singer",
+      "pilot",
+      "nurse",
+      "lawyer",
+      "writer",
+      "coach",
+      "clerk",
+      "man",
+      "judge",
+      "farmer",
+      "actor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d12_t03",
+    "seed": 62003
+  },
+  {
+    "sentence": "The tiger that the actor that the writer that the farmer that the woman that the man that the teacher that the judge that the singer that the sailor that the pilot that the mayor recognized trusted met called remembered admired liked knew helped noticed visited approached the dog.",
+    "correct_answer": "tiger",
+    "main_object": "dog",
+    "embedded_humans": [
+      "actor",
+      "writer",
+      "farmer",
+      "woman",
+      "man",
+      "teacher",
+      "judge",
+      "singer",
+      "sailor",
+      "pilot",
+      "mayor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d12_t04",
+    "seed": 62004
+  },
+  {
+    "sentence": "The horse that the clerk that the sailor that the writer that the boy that the mayor that the girl that the artist that the lawyer that the chef that the actor that the teacher noticed liked admired called remembered visited helped trusted saw met recognized watched the wolf.",
+    "correct_answer": "horse",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "clerk",
+      "sailor",
+      "writer",
+      "boy",
+      "mayor",
+      "girl",
+      "artist",
+      "lawyer",
+      "chef",
+      "actor",
+      "teacher"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d12_t05",
+    "seed": 62005
+  },
+  {
+    "sentence": "The horse that the lawyer that the singer that the actor that the girl that the judge that the artist that the writer that the sailor that the boy that the farmer that the teacher recognized visited knew met liked saw remembered noticed called admired trusted followed the lion.",
+    "correct_answer": "horse",
+    "main_object": "lion",
+    "embedded_humans": [
+      "lawyer",
+      "singer",
+      "actor",
+      "girl",
+      "judge",
+      "artist",
+      "writer",
+      "sailor",
+      "boy",
+      "farmer",
+      "teacher"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d12_t06",
+    "seed": 62006
+  },
+  {
+    "sentence": "The deer that the clerk that the chef that the girl that the pilot that the nurse that the artist that the writer that the singer that the doctor that the actor that the lawyer saw admired called helped met noticed liked knew visited recognized remembered approached the fox.",
+    "correct_answer": "deer",
+    "main_object": "fox",
+    "embedded_humans": [
+      "clerk",
+      "chef",
+      "girl",
+      "pilot",
+      "nurse",
+      "artist",
+      "writer",
+      "singer",
+      "doctor",
+      "actor",
+      "lawyer"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d12_t07",
+    "seed": 62007
+  },
+  {
+    "sentence": "The horse that the teacher that the clerk that the girl that the artist that the judge that the woman that the sailor that the man that the lawyer that the pilot that the doctor helped admired liked noticed remembered called recognized visited met knew saw watched the snake.",
+    "correct_answer": "horse",
+    "main_object": "snake",
+    "embedded_humans": [
+      "teacher",
+      "clerk",
+      "girl",
+      "artist",
+      "judge",
+      "woman",
+      "sailor",
+      "man",
+      "lawyer",
+      "pilot",
+      "doctor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d12_t08",
+    "seed": 62008
+  },
+  {
+    "sentence": "The deer that the sailor that the artist that the chef that the pilot that the girl that the doctor that the mayor that the singer that the boy that the clerk that the lawyer liked helped recognized visited met noticed remembered trusted saw called knew chased the horse.",
+    "correct_answer": "deer",
+    "main_object": "horse",
+    "embedded_humans": [
+      "sailor",
+      "artist",
+      "chef",
+      "pilot",
+      "girl",
+      "doctor",
+      "mayor",
+      "singer",
+      "boy",
+      "clerk",
+      "lawyer"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t09",
+    "seed": 62009
+  },
+  {
+    "sentence": "The horse that the girl that the woman that the clerk that the pilot that the artist that the doctor that the boy that the singer that the writer that the actor that the chef trusted admired helped noticed called saw remembered liked visited met knew approached the dog.",
+    "correct_answer": "horse",
+    "main_object": "dog",
+    "embedded_humans": [
+      "girl",
+      "woman",
+      "clerk",
+      "pilot",
+      "artist",
+      "doctor",
+      "boy",
+      "singer",
+      "writer",
+      "actor",
+      "chef"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d12_t10",
+    "seed": 62010
+  },
+  {
+    "sentence": "The snake that the clerk that the teacher that the sailor that the coach that the judge that the artist that the nurse that the girl that the pilot that the mayor that the actor saw called met visited admired liked noticed trusted helped recognized remembered startled the fox.",
+    "correct_answer": "snake",
+    "main_object": "fox",
+    "embedded_humans": [
+      "clerk",
+      "teacher",
+      "sailor",
+      "coach",
+      "judge",
+      "artist",
+      "nurse",
+      "girl",
+      "pilot",
+      "mayor",
+      "actor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t11",
+    "seed": 62011
+  },
+  {
+    "sentence": "The wolf that the nurse that the artist that the coach that the actor that the man that the pilot that the lawyer that the sailor that the chef that the teacher that the girl liked remembered visited met trusted knew noticed recognized helped called admired chased the bird.",
+    "correct_answer": "wolf",
+    "main_object": "bird",
+    "embedded_humans": [
+      "nurse",
+      "artist",
+      "coach",
+      "actor",
+      "man",
+      "pilot",
+      "lawyer",
+      "sailor",
+      "chef",
+      "teacher",
+      "girl"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t12",
+    "seed": 62012
+  },
+  {
+    "sentence": "The lion that the singer that the man that the boy that the girl that the artist that the mayor that the coach that the judge that the woman that the clerk that the pilot met helped trusted remembered noticed recognized admired knew saw visited liked startled the rabbit.",
+    "correct_answer": "lion",
+    "main_object": "rabbit",
+    "embedded_humans": [
+      "singer",
+      "man",
+      "boy",
+      "girl",
+      "artist",
+      "mayor",
+      "coach",
+      "judge",
+      "woman",
+      "clerk",
+      "pilot"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t13",
+    "seed": 62013
+  },
+  {
+    "sentence": "The fox that the lawyer that the coach that the singer that the nurse that the man that the actor that the boy that the teacher that the artist that the mayor that the woman noticed recognized trusted knew met admired called visited liked remembered saw startled the snake.",
+    "correct_answer": "fox",
+    "main_object": "snake",
+    "embedded_humans": [
+      "lawyer",
+      "coach",
+      "singer",
+      "nurse",
+      "man",
+      "actor",
+      "boy",
+      "teacher",
+      "artist",
+      "mayor",
+      "woman"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t14",
+    "seed": 62014
+  },
+  {
+    "sentence": "The lion that the singer that the farmer that the clerk that the man that the pilot that the doctor that the sailor that the girl that the woman that the coach that the nurse recognized helped visited trusted remembered liked met admired knew noticed called startled the bird.",
+    "correct_answer": "lion",
+    "main_object": "bird",
+    "embedded_humans": [
+      "singer",
+      "farmer",
+      "clerk",
+      "man",
+      "pilot",
+      "doctor",
+      "sailor",
+      "girl",
+      "woman",
+      "coach",
+      "nurse"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t15",
+    "seed": 62015
+  },
+  {
+    "sentence": "The horse that the singer that the sailor that the chef that the farmer that the mayor that the girl that the pilot that the judge that the nurse that the artist that the lawyer visited remembered saw noticed knew met admired liked recognized helped called followed the deer.",
+    "correct_answer": "horse",
+    "main_object": "deer",
+    "embedded_humans": [
+      "singer",
+      "sailor",
+      "chef",
+      "farmer",
+      "mayor",
+      "girl",
+      "pilot",
+      "judge",
+      "nurse",
+      "artist",
+      "lawyer"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d12_t16",
+    "seed": 62016
+  },
+  {
+    "sentence": "The mouse that the farmer that the nurse that the clerk that the writer that the man that the mayor that the singer that the artist that the judge that the doctor that the sailor helped met recognized admired remembered visited called noticed knew liked trusted startled the dog.",
+    "correct_answer": "mouse",
+    "main_object": "dog",
+    "embedded_humans": [
+      "farmer",
+      "nurse",
+      "clerk",
+      "writer",
+      "man",
+      "mayor",
+      "singer",
+      "artist",
+      "judge",
+      "doctor",
+      "sailor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t17",
+    "seed": 62017
+  },
+  {
+    "sentence": "The owl that the teacher that the lawyer that the judge that the clerk that the singer that the woman that the actor that the chef that the boy that the nurse that the coach noticed met called saw visited remembered knew helped recognized trusted liked chased the deer.",
+    "correct_answer": "owl",
+    "main_object": "deer",
+    "embedded_humans": [
+      "teacher",
+      "lawyer",
+      "judge",
+      "clerk",
+      "singer",
+      "woman",
+      "actor",
+      "chef",
+      "boy",
+      "nurse",
+      "coach"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t18",
+    "seed": 62018
+  },
+  {
+    "sentence": "The cat that the nurse that the chef that the boy that the clerk that the pilot that the artist that the woman that the singer that the writer that the girl that the sailor saw noticed visited helped met admired trusted recognized called liked knew watched the dog.",
+    "correct_answer": "cat",
+    "main_object": "dog",
+    "embedded_humans": [
+      "nurse",
+      "chef",
+      "boy",
+      "clerk",
+      "pilot",
+      "artist",
+      "woman",
+      "singer",
+      "writer",
+      "girl",
+      "sailor"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d12_t19",
+    "seed": 62019
+  },
+  {
+    "sentence": "The rabbit that the artist that the boy that the nurse that the actor that the sailor that the man that the mayor that the judge that the pilot that the farmer that the clerk knew noticed admired called recognized remembered visited trusted liked helped saw chased the cat.",
+    "correct_answer": "rabbit",
+    "main_object": "cat",
+    "embedded_humans": [
+      "artist",
+      "boy",
+      "nurse",
+      "actor",
+      "sailor",
+      "man",
+      "mayor",
+      "judge",
+      "pilot",
+      "farmer",
+      "clerk"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t20",
+    "seed": 62020
+  },
+  {
+    "sentence": "The lion that the mayor that the girl that the chef that the doctor that the sailor that the clerk that the man that the pilot that the singer that the artist that the lawyer helped met liked saw remembered recognized trusted admired noticed visited called chased the bird.",
+    "correct_answer": "lion",
+    "main_object": "bird",
+    "embedded_humans": [
+      "mayor",
+      "girl",
+      "chef",
+      "doctor",
+      "sailor",
+      "clerk",
+      "man",
+      "pilot",
+      "singer",
+      "artist",
+      "lawyer"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t21",
+    "seed": 62021
+  },
+  {
+    "sentence": "The wolf that the doctor that the man that the actor that the sailor that the coach that the artist that the clerk that the teacher that the mayor that the chef that the lawyer recognized called noticed met trusted knew liked visited saw remembered admired approached the deer.",
+    "correct_answer": "wolf",
+    "main_object": "deer",
+    "embedded_humans": [
+      "doctor",
+      "man",
+      "actor",
+      "sailor",
+      "coach",
+      "artist",
+      "clerk",
+      "teacher",
+      "mayor",
+      "chef",
+      "lawyer"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "approached",
+    "structure": "center-embedded",
+    "trial_id": "d12_t22",
+    "seed": 62022
+  },
+  {
+    "sentence": "The bird that the nurse that the coach that the mayor that the woman that the singer that the lawyer that the sailor that the writer that the artist that the boy that the chef called admired noticed remembered met saw knew visited trusted recognized helped startled the eagle.",
+    "correct_answer": "bird",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "nurse",
+      "coach",
+      "mayor",
+      "woman",
+      "singer",
+      "lawyer",
+      "sailor",
+      "writer",
+      "artist",
+      "boy",
+      "chef"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t23",
+    "seed": 62023
+  },
+  {
+    "sentence": "The fox that the farmer that the nurse that the artist that the pilot that the mayor that the actor that the girl that the coach that the lawyer that the clerk that the woman noticed called recognized knew remembered admired visited trusted saw liked helped startled the wolf.",
+    "correct_answer": "fox",
+    "main_object": "wolf",
+    "embedded_humans": [
+      "farmer",
+      "nurse",
+      "artist",
+      "pilot",
+      "mayor",
+      "actor",
+      "girl",
+      "coach",
+      "lawyer",
+      "clerk",
+      "woman"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "startled",
+    "structure": "center-embedded",
+    "trial_id": "d12_t24",
+    "seed": 62024
+  },
+  {
+    "sentence": "The bird that the nurse that the pilot that the doctor that the lawyer that the boy that the actor that the man that the teacher that the judge that the singer that the farmer noticed remembered helped knew admired liked visited met trusted called recognized chased the cat.",
+    "correct_answer": "bird",
+    "main_object": "cat",
+    "embedded_humans": [
+      "nurse",
+      "pilot",
+      "doctor",
+      "lawyer",
+      "boy",
+      "actor",
+      "man",
+      "teacher",
+      "judge",
+      "singer",
+      "farmer"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t25",
+    "seed": 62025
+  },
+  {
+    "sentence": "The mouse that the boy that the girl that the artist that the man that the coach that the writer that the actor that the farmer that the nurse that the judge that the clerk liked helped remembered met trusted visited knew saw admired recognized noticed followed the snake.",
+    "correct_answer": "mouse",
+    "main_object": "snake",
+    "embedded_humans": [
+      "boy",
+      "girl",
+      "artist",
+      "man",
+      "coach",
+      "writer",
+      "actor",
+      "farmer",
+      "nurse",
+      "judge",
+      "clerk"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "followed",
+    "structure": "center-embedded",
+    "trial_id": "d12_t26",
+    "seed": 62026
+  },
+  {
+    "sentence": "The tiger that the doctor that the clerk that the man that the teacher that the artist that the chef that the actor that the judge that the lawyer that the writer that the coach called knew visited liked met admired trusted saw remembered helped recognized chased the eagle.",
+    "correct_answer": "tiger",
+    "main_object": "eagle",
+    "embedded_humans": [
+      "doctor",
+      "clerk",
+      "man",
+      "teacher",
+      "artist",
+      "chef",
+      "actor",
+      "judge",
+      "lawyer",
+      "writer",
+      "coach"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t27",
+    "seed": 62027
+  },
+  {
+    "sentence": "The rabbit that the mayor that the woman that the teacher that the judge that the girl that the nurse that the doctor that the artist that the sailor that the pilot that the coach knew recognized liked helped met called noticed remembered visited admired saw watched the horse.",
+    "correct_answer": "rabbit",
+    "main_object": "horse",
+    "embedded_humans": [
+      "mayor",
+      "woman",
+      "teacher",
+      "judge",
+      "girl",
+      "nurse",
+      "doctor",
+      "artist",
+      "sailor",
+      "pilot",
+      "coach"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "watched",
+    "structure": "center-embedded",
+    "trial_id": "d12_t28",
+    "seed": 62028
+  },
+  {
+    "sentence": "The mouse that the singer that the teacher that the girl that the sailor that the artist that the man that the lawyer that the writer that the boy that the farmer that the clerk saw called liked met recognized remembered helped trusted knew visited noticed chased the dog.",
+    "correct_answer": "mouse",
+    "main_object": "dog",
+    "embedded_humans": [
+      "singer",
+      "teacher",
+      "girl",
+      "sailor",
+      "artist",
+      "man",
+      "lawyer",
+      "writer",
+      "boy",
+      "farmer",
+      "clerk"
+    ],
+    "depth": 12,
+    "n_nouns": 13,
+    "main_verb": "chased",
+    "structure": "center-embedded",
+    "trial_id": "d12_t29",
+    "seed": 62029
+  }
+]

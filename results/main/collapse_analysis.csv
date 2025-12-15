@@ -1,0 +1,3 @@
+model,max_drop,collapse_from,collapse_to,shows_collapse,post_collapse_accuracy
+haiku,0.5333333333333332,2,3,True,0.15000000000000002
+gpt4o-mini,0.033333333333333326,4,5,False,

@@ -1,0 +1,13 @@
+model_key,depth,error_type,count
+gpt4o-mini,5,object_error,1
+gpt4o-mini,6,object_error,1
+haiku,2,human_error,2
+haiku,2,object_error,6
+haiku,3,human_error,1
+haiku,3,object_error,23
+haiku,4,human_error,4
+haiku,4,object_error,23
+haiku,5,human_error,20
+haiku,5,object_error,8
+haiku,6,human_error,21
+haiku,6,object_error,2
